@@ -161,6 +161,28 @@
       "token": ""
     },
     {
+      "name": "Arcade Galaxy",
+      "slug": "arcadegalaxy",
+      "tags": [
+        "gaming",
+        "arcade",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Social game where users can host and visit eachother's created world with their customizable charachters",
+      "logo": "/img/arcadegalaxy.png",
+      "website": "https://www.arcadegalaxy.space/",
+      "twitter": "https://twitter.com/arcadegalaxy_?s=21",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/arcadegalaxy",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RCADE, $LFG"
+    },
+    {
       "name": "Arrow DFMs",
       "slug": "arrow-dfms",
       "tags": [
@@ -519,6 +541,27 @@
       "token": ""
     },
     {
+      "name": "Battle for Giostone",
+      "slug": "battleforgiostone",
+      "tags": [
+        "gaming",
+        "moba"
+      ],
+      "status": "In development",
+      "highlight": "Battle For Giostone is the first authentic P2E MOBA game developed by M-Tech entertainment.",
+      "logo": "/img/battleforgiostone.png",
+      "website": "https://battleforgiostone.com/",
+      "twitter": "https://twitter.com/BFGiostone",
+      "telegram": "",
+      "github": "",
+      "discord": "https://t.co/oqqSdXp2rV",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "BENQI",
       "slug": "benqi",
       "tags": [
@@ -781,6 +824,28 @@
       "docs": "https://docs.blockvision.org/blockvision/chain-apis/avalanche-api"
     },
     {
+      "name": "Bloodloop",
+      "slug": "bloodloop",
+      "tags": [
+        "gaming",
+        "fps",
+        "mmorpg"
+      ],
+      "status": "",
+      "highlight": "BloodLoop is an MMO-FPS game, with a decentralized economy, inspired by the mechanics of the world's leading competitive video games.",
+      "logo": "/img/bloodloop.png",
+      "website": "https://www.bloodloop.org/",
+      "twitter": "https://twitter.com/BloodLoopGAME",
+      "telegram": "https://t.me/BloodLoopEngOfficial",
+      "github": "",
+      "discord": "https://discord.gg/8P9fQ8qtgp",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Bloq",
       "slug": "bloq",
       "tags": [
@@ -932,6 +997,28 @@
       "telegram": "https://t.me/cartesiannouncements",
       "github": "https://www.github.com/cartesi",
       "discord": "https://discord.gg/Pt2NrnS",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Castle Crush",
+      "slug": "castlecrush",
+      "tags": [
+        "gaming",
+        "card game",
+        "rts"
+      ],
+      "status": "In development",
+      "highlight": "Building the laregest real-time multiplayer strategy game on the blockchain. Own your cards. Build your deck. Battle over one million payers worldwide and compete in leagues to win incredible prizes!",
+      "logo": "/img/castlecrush.png",
+      "website": "https://www.castlecrushgame.com/",
+      "twitter": "https://twitter.com/playcastlecrush",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/castlecrush",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1497,6 +1584,48 @@
       "token": ""
     },
     {
+      "name": "Defi Kingdoms",
+      "slug": "defikingdoms",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "Live",
+      "highlight": "Idle RPG style game layered on top of a DEX with PvP and questing elements coming soon",
+      "logo": "/img/defikingdoms.png",
+      "website": "https://defikingdoms.com/",
+      "twitter": "https://twitter.com/DefiKingdoms",
+      "telegram": "https://t.me/defikingdoms",
+      "github": "",
+      "discord": "https://discord.gg/defikingdoms",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$JEWEL $CRYSTAL"
+    },
+    {
+      "name": "Defimons",
+      "slug": "defimons",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Capture monsters, buy outfits, and design your own apartments, as you explore the beautiful world of Defimons",
+      "logo": "/img/defimons.jpg",
+      "website": "https://beta.defimons.com/",
+      "twitter": "https://twitter.com/TheDeFimons",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/defimons",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Degis",
       "slug": "Degis",
       "date": "2022-04-01",
@@ -1558,6 +1687,27 @@
       "token": ""
     },
     {
+      "name": "Dogeon",
+      "slug": "dogeon",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "",
+      "highlight": "Dogeon is a Gaming NFT project on Avalanche. It's our first DOG RACE Play-to-Earn game, which makes it all worth while!",
+      "logo": "/img/dogeon.png",
+      "website": "https://nft.dogeon.io/",
+      "twitter": "https://twitter.com/Dogeon_Official",
+      "telegram": "https://t.me/DogeonAnn",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Domi Online",
       "slug": "domi-online",
       "date": "2021-12-15",
@@ -1577,6 +1727,49 @@
       "docs": "https://domionline.io/Whitepaper_DomiOnline.pdf",
       "token": "DOMI",
       "cmc": "https://coinmarketcap.com/currencies/domi-online/"
+    },
+    {
+      "name": "Domi Online",
+      "slug": "domionline",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Domi Online is a play to earn 3D Blockchain MMORPG underpinned by NFTs.",
+      "logo": "/img/domionline.png",
+      "website": "https://domionline.io/",
+      "twitter": "https://twitter.com/DomiOnline",
+      "telegram": "https://t.me/joinchat/7USIiY4wVP9hYjA0",
+      "github": "",
+      "discord": "https://tinyurl.com/fuunkux3",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$DOMI"
+    },
+    {
+      "name": "Dragon Crypto Gaming",
+      "slug": "dragoncryptogaming",
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Full-Fledged Retro RPG on the Blockchain with multiple games includinga  text-based RPG and an idle breeding NFT game",
+      "logo": "/img/dragoncryptogaming.jpg",
+      "website": "https://dragoncrypto.io/tiny-dragons/",
+      "twitter": "https://twitter.com/DCGgamefi",
+      "telegram": "https://t.me/thedragonslairfarm",
+      "github": "",
+      "discord": "https://discord.gg/https://discord.gg/hjc7sVrxmc",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
     },
     {
       "name": "DSLA Protocol",
@@ -1680,6 +1873,27 @@
       "token": ""
     },
     {
+      "name": "Eternity",
+      "slug": "eternity",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Eternity is a fantasy-themed NFT Role-Playing Game featuring a beautifully crafted, living world that is constantly evolving.",
+      "logo": "/img/eternity.jpg",
+      "website": "https://playeternity.io/",
+      "twitter": "https://twitter.com/eternityrpg",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/EMN6C5NQZc",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Ethernal",
       "slug": "ethernal",
       "tags": [
@@ -1698,6 +1912,48 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Fableborn",
+      "slug": "fableborn",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Raid real players, defend your base and fight amongst heroes, while you embark on a journey to explore the Shatterlands.",
+      "logo": "/img/fableborn.png",
+      "website": "https://www.fableborne.com/",
+      "twitter": "https://www.fableborne.com/twitter",
+      "telegram": "https://www.fableborne.com/telegram",
+      "github": "",
+      "discord": "https://www.fableborne.com/discord",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Fief Finance",
+      "slug": "fieffinance",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "In development",
+      "highlight": "Economic Guild for GameFi projects in the Avalanche ecosystem",
+      "logo": "/img/fieffinance.png",
+      "website": "https://www.fief.finance/",
+      "twitter": "https://twitter.com/FiefGuild",
+      "telegram": "",
+      "github": "",
+      "discord": "http://discord.gg/fief-finance",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$FIEF"
     },
     {
       "name": "Figment Network",
@@ -1755,6 +2011,27 @@
       "telegram": "",
       "github": "",
       "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Flight of Legends",
+      "slug": "flightoflegends",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "Live",
+      "highlight": "We are building an aeronautics metaverse and a fly to earn game on the Avalanche network. This metaverse will provide its users with a fun gaming experience based on the aeronautical world. ",
+      "logo": "/img/flightoflegends.png",
+      "website": "https://flightoflegends.com/",
+      "twitter": "https://twitter.com/FlightOfLegends",
+      "telegram": "https://t.me/FlightofLegends",
+      "github": "",
+      "discord": "https://t.co/1VJBaPy2oS",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1846,6 +2123,27 @@
       "cmc": "https://coinmarketcap.com/currencies/futureswap/"
     },
     {
+      "name": "GameStar+",
+      "slug": "gamestar",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "",
+      "highlight": "Revolutionizing game night by turning the games you love into rich, interactive experiences. Featuring world-class titles, trusted brands, and your favorite stars - all in one place.",
+      "logo": "/img/gamestar.png",
+      "website": "https://www.gamestarplus.com/index.html",
+      "twitter": "https://twitter.com/gamestarplus?lang=en",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/gamestarplus",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$GSTAR"
+    },
+    {
       "name": "Gameswap",
       "slug": "gameswap",
       "tags": [
@@ -1859,6 +2157,27 @@
       "telegram": "",
       "github": "",
       "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Gods of Asgard",
+      "slug": "godsofasgard",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Gods of Asgard is a P2E NFT game where players battle, survive, and earn your way through an epic Battle-Royale while exploring the vast open world of Midgard.",
+      "logo": "/img/godsofasgard.png",
+      "website": "https://godsofasgardp2e.com/",
+      "twitter": "https://twitter.com/GodsofAsgardP2E",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/thorfinancial",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1884,6 +2203,27 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Gunfire AVAX",
+      "slug": "gunfireavax",
+      "tags": [
+        "gaming",
+        "fps"
+      ],
+      "status": "",
+      "highlight": "2D old school style NFT project based on",
+      "logo": "/img/gunfireavax.png",
+      "website": "https://gunfireavax.io/",
+      "twitter": "https://twitter.com/GunfireAVAX",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/BQUraxgCNC",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$GUNX"
     },
     {
       "name": "HackenProof",
@@ -1967,6 +2307,28 @@
       "token": ""
     },
     {
+      "name": "Hatchy Pocket",
+      "slug": "hatchypocket",
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "casual social"
+      ],
+      "status": "",
+      "highlight": "Hatchy pocket is a high fidelity, new age, exclusive digital monster collectable, with limited numbers. Immortalized and proven by NFT technology!",
+      "logo": "/img/hatchypocket.png",
+      "website": "https://hatchypocket.com/",
+      "twitter": "https://twitter.com/HatchyPocket",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/cW378HVjyY",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Heroes Chained",
       "slug": "heroes-chained",
       "tags": [
@@ -1986,6 +2348,48 @@
       "cmc": "",
       "date": "2022-01-14",
       "token": ""
+    },
+    {
+      "name": "Heroes Chained",
+      "slug": "heroeschained",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Heroes Chained is a real time fantasy action RPG game, where the player becomes a Guild Master and gathers heroes.",
+      "logo": "/img/heroeschained.png",
+      "website": "https://heroeschained.com/",
+      "twitter": "https://twitter.com/HeroesChained",
+      "telegram": "https://t.me/HeroesChainedOfficial",
+      "github": "",
+      "discord": "https://discord.com/invite/heroeschained",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$HeC"
+    },
+    {
+      "name": "HighRise",
+      "slug": "highrise",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "",
+      "highlight": "With over 10 million members, Highrise is the leading mobile-first metaverse. Every day, Highrise citizens create rooms, style avatars, host experiences, and much more.",
+      "logo": "/img/highrise.jpg",
+      "website": "https://about.joinhighrise.com/",
+      "twitter": "https://twitter.com/HighriseApp",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/384cnjGQKU",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RISE"
     },
     {
       "name": "Hodo Network",
@@ -2029,6 +2433,27 @@
       "github": "https://github.com/AlphaFinanceLab",
       "token": "ALPHA.e",
       "cmc": "https://coinmarketcap.com/currencies/alpha-finance-lab/"
+    },
+    {
+      "name": "Hopper Game (APA team)",
+      "slug": "hoppergame(apateam)",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Idle game where your Hopper NFTs go on adventures to aquire $FLY for upgrades and breeding games.",
+      "logo": "/img/hoppergame(apateam).jpg",
+      "website": "https://hoppersgame.io/",
+      "twitter": "https://twitter.com/HoppersGame",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/hoppersgame",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$FLY"
     },
     {
       "name": "Hummingbot",
@@ -2134,6 +2559,28 @@
       "github": "",
       "token": "IME",
       "cmc": "https://coinmarketcap.com/currencies/imperium-empires/"
+    },
+    {
+      "name": "Imperium Empires",
+      "slug": "imperiumempires",
+      "tags": [
+        "gaming",
+        "rts",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "The world's first AAA GameFi 2.0 space metaverse.",
+      "logo": "/img/imperiumempires.png",
+      "website": "https://imperiumempires.com/",
+      "twitter": "https://twitter.com/ImperiumEmpires",
+      "telegram": "https://www.t.me/ImperiumEmpiresOfficial",
+      "github": "",
+      "discord": "https://discord.gg/ImperiumEmpires",
+      "summary": "AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. It revolutionizes blockchain games through high quality graphics and gameplay, well-thought-out tokenomics, team-to-earn guild mechanics and deep DeFi integration.",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$IME"
     },
     {
       "name": "Injective Protocol",
@@ -2249,6 +2696,27 @@
       "telegram": "https://t.me/kalaoklo",
       "github": "",
       "discord": "https://discord.com/invite/WjcRtmZKPB",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Kingdom Quest",
+      "slug": "kingdomquest",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Building metaverse with 4 games using 1 token and NFT system",
+      "logo": "/img/kingdomquest.webp",
+      "website": "https://kingdomquest.io/",
+      "twitter": "https://twitter.com/kingdomquest_io",
+      "telegram": "https://t.co/u51COB2Sl5",
+      "github": "",
+      "discord": "https://t.co/h7CoI11JEg",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -2461,6 +2929,27 @@
       "cmc:": "https://coinmarketcap.com/zh-tw/currencies/lootex/"
     },
     {
+      "name": "Lost Worlds",
+      "slug": "lostworlds",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Location Based NFT Platform. Mint NFTs From Real World Locations ",
+      "logo": "/img/lostworlds.png",
+      "website": "https://lostworlds.io/",
+      "twitter": "https://lostworlds.io/assets/twitter.9e201712.svg",
+      "telegram": "https://lostworlds.io/assets/telegram.f3cc5e7e.svg",
+      "github": "",
+      "discord": "https://lostworlds.io/assets/discord.554d2e4f.svg",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Lydia Finance",
       "slug": "lydia-finance",
       "tags": [
@@ -2599,6 +3088,27 @@
       "cmc": "https://www.coingecko.com/en/coins/maximizer",
       "date": "",
       "token": "MAXI"
+    },
+    {
+      "name": "Metaderby",
+      "slug": "metaderby",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "Live",
+      "highlight": "MetaDerby is the first free-to-play-and-earn horse racing metaverse where anyone can earn tokens through skilled gameplay and contribute to building the MetaDerby universe.",
+      "logo": "/img/metaderby.png",
+      "website": "https://www.metaderby.com/",
+      "twitter": "https://twitter.com/metaderby",
+      "telegram": "https://t.me/MetaDerbyOfficial",
+      "github": "",
+      "discord": "https://discord.gg/zAqk3GXeVJ",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$DBY, $HOOF"
     },
     {
       "name": "Metamask",
@@ -2970,6 +3480,28 @@
       "token": ""
     },
     {
+      "name": "Openblox",
+      "slug": "openblox",
+      "tags": [
+        "gaming",
+        "fitfi",
+        "casual"
+      ],
+      "status": "",
+      "highlight": "Openblox is a world where you can start your jouirney with your Blox to hunt, clollect, breed, battle, and xplore this magical land",
+      "logo": "/img/openblox.svg",
+      "website": "https://openblox.io/",
+      "twitter": "https://twitter.com/OpenBlox_io",
+      "telegram": "https://t.me/openblox_eng",
+      "github": "",
+      "discord": "https://discord.com/invite/openblox",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "OpenOcean",
       "slug": "openocean",
       "tags": [
@@ -3010,6 +3542,27 @@
       "token": ""
     },
     {
+      "name": "P2E Analytics",
+      "slug": "p2eanalytics",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "",
+      "highlight": "p2eanalytics.com is your GameFi Hub. Tools to help you analyze and discover new games.",
+      "logo": "/img/p2eanalytics.png",
+      "website": "https://p2eanalytics.com/",
+      "twitter": "https://twitter.com/P2EAnalytics",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/VDkTXHNrSp",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Pangolin",
       "slug": "pangolin",
       "tags": [
@@ -3024,6 +3577,27 @@
       "telegram": "https://t.me/pangolindex",
       "github": "https://github.com/pangolindex",
       "discord": "https://discord.gg/PARrDYYbfw",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Paradise Tycoon",
+      "slug": "paradisetycoon",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development ",
+      "highlight": "Create your personal paradise island in a free P2E metaverse game",
+      "logo": "/img/paradisetycoon.png",
+      "website": "https://paradisetycoon.com/",
+      "twitter": "https://twitter.com/paradisetycoon",
+      "telegram": "https://t.me/paradisetycoon",
+      "github": "",
+      "discord": "https://discord.gg/sWsNzUWCSb",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -3132,6 +3706,27 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Pizza Game",
+      "slug": "pizzagame",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Inspired by Cookie Clicker - we are bringing your favorite childhood game to Avalanche",
+      "logo": "/img/pizzagame.jpg",
+      "website": "https://pizza.game/",
+      "twitter": "https://twitter.com/PizzadotGame",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/pizzagame",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$PIZZA, $SODA"
     },
     {
       "name": "Platypus Finance",
@@ -3303,6 +3898,28 @@
       "token": ""
     },
     {
+      "name": "Pulsar",
+      "slug": "pulsar",
+      "tags": [
+        "gaming",
+        "rts",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "SciFi MMO RTS that allows you to travel the universe and conquer terrifying worlds.",
+      "logo": "/img/pulsar.jpg",
+      "website": "https://12rw.io/",
+      "twitter": "https://twitter.com/Alvaro12rw",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Quadency",
       "slug": "quadency",
       "tags": [
@@ -3343,6 +3960,48 @@
       "token": ""
     },
     {
+      "name": "RaceX",
+      "slug": "racex",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "In development",
+      "highlight": "The first Race-2-Earn gaming platform on Avalanche utilizing NFT racecars.",
+      "logo": "/img/racex.png",
+      "website": "https://racex.tech/",
+      "twitter": "https://t.co/CianEzcvMu",
+      "telegram": "https://twitter.com/DcrcAvax",
+      "github": "",
+      "discord": "https://t.co/bn12Enmueu",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RACEX"
+    },
+    {
+      "name": "Ragnarok",
+      "slug": "ragnarok",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "A blend of Lore, Web 3.0, and a Role playing game, allowing you to interact using your NFT as your digital identity",
+      "logo": "/img/ragnarok.png",
+      "website": "https://ragnarok.xyz/",
+      "twitter": "https://twitter.com/RagnarokMeta",
+      "telegram": "",
+      "github": "",
+      "discord": "https://t.co/MAhpVwzVgG",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RAG"
+    },
+    {
       "name": "Reef",
       "slug": "reef",
       "tags": [
@@ -3376,6 +4035,27 @@
       "telegram": "",
       "github": "https://github.com/renproject",
       "discord": "https://discord.com/invite/QeVXaTWVWn",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Roco.finance",
+      "slug": "roco.finance",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "",
+      "highlight": "Roco token is a crypto asset  which offers an ecosystem of integrated blockchain software products for games.",
+      "logo": "/img/roco.finance.svg",
+      "website": "roco.finance",
+      "twitter": "https://twitter.com/RocoFinance",
+      "telegram": "",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -3534,6 +4214,27 @@
       "token": ""
     },
     {
+      "name": "Shrapnel",
+      "slug": "shrapnel",
+      "tags": [
+        "gaming",
+        "fps"
+      ],
+      "status": "In development",
+      "highlight": " AAA Extraction FPS powered by next-gen community-driven tools, built on the blockchain to offer true ownership.",
+      "logo": "/img/shrapnel.jpg",
+      "website": "https://www.shrapnel.com/",
+      "twitter": "https://twitter.com/playSHRAPNEL",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/shrapnel",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "SIMBA Chain",
       "slug": "simba-chain",
       "tags": [
@@ -3574,6 +4275,48 @@
       "token": ""
     },
     {
+      "name": "Sky Meta",
+      "slug": "skymeta",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "Live",
+      "highlight": "Utilize our platform to research opportunities, build up your GameFi portfolio, and start earning. Our goal is to help make GameFi accessible for everyone.",
+      "logo": "/img/skymeta.png",
+      "website": "https://skymeta.io/",
+      "twitter": "https://discord.gg/c6gDu3kK",
+      "telegram": "https://t.me/skymeta",
+      "github": "",
+      "discord": "https://discord.gg/c6gDu3kK",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Smashverse",
+      "slug": "smashverse",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Next generation brawl game. Battle. Smash. Earn. ",
+      "logo": "/img/smashverse.png",
+      "website": "https://www.smashverse.com/",
+      "twitter": "http://twitter.com/smashversegame",
+      "telegram": "",
+      "github": "",
+      "discord": "http://discord.gg/smashverse",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Snail Trail",
       "slug": "snailtrail",
       "date": "2022-02-04",
@@ -3594,6 +4337,27 @@
       "github": "",
       "token": "",
       "cmc": ""
+    },
+    {
+      "name": "Snake City",
+      "slug": "snakecity",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "In development",
+      "highlight": "P2E NFT game inspired by the famous Slither.io ",
+      "logo": "/img/snakecity.jpg",
+      "website": "https://snakecity.io/",
+      "twitter": "https://twitter.com/snakecity_io",
+      "telegram": "https://t.me/snakecity_io",
+      "github": "",
+      "discord": "https://discord.gg/qEvNmex6wR",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
     },
     {
       "name": "Snowball",
@@ -3782,6 +4546,27 @@
       "token": ""
     },
     {
+      "name": "Time Shuffle",
+      "slug": "timeshuffle",
+      "tags": [
+        "gaming",
+        "rts"
+      ],
+      "status": "In development",
+      "highlight": "Play-and-Earn NFT based battle-arena, set in time-traveling universe",
+      "logo": "/img/timeshuffle.png",
+      "website": "https://timeshuffle.io/",
+      "twitter": "https://twitter.com/TimeShuffleGame",
+      "telegram": "https://t.me/timeshufflegame",
+      "github": "",
+      "discord": "https://discord.com/invite/timeshuffle",
+      "summary": "TimeShuffle is a play-and-earn turn-based strategy game with heroes from across history battling together and against each other in procedurally generated battlefield arenas. Each player can start his conquest with a free to play hero and progress his heroes as they play unlocking the full potential of the crypto gaming and play-and-earn model.",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Tin Network",
       "slug": "tin-network",
       "tags": [
@@ -3795,6 +4580,27 @@
       "telegram": "https://t.me/tin_network",
       "github": "",
       "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Tiny Bones",
+      "slug": "tinybones",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Open world for those with Tiny Bones NFTs to interact and socialize",
+      "logo": "/img/tinybones.jpg",
+      "website": "https://tinybones.club/",
+      "twitter": "https://twitter.com/TinyBonesClub",
+      "telegram": "",
+      "github": "",
+      "discord": "http://discord.gg/tinybones",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -4091,6 +4897,27 @@
       "token": ""
     },
     {
+      "name": "Warbots",
+      "slug": "warbots",
+      "tags": [
+        "gaming",
+        "rts"
+      ],
+      "status": "",
+      "highlight": "Rise of the Warbots is a PVP P2E NFT gaming experience built on Avalanche C-Chain",
+      "logo": "/img/warbots.jpg",
+      "website": "https://riseofthewarbots.com/",
+      "twitter": "https://twitter.com/WarbotsOfficial",
+      "telegram": "https://t.me/WarbotsOfficial",
+      "github": "",
+      "discord": "https://discord.com/invite/RQDyKAY",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$MMAC $NMAC"
+    },
+    {
       "name": "Wirex App",
       "slug": "wirex-app",
       "date": "06-01-14",
@@ -4144,6 +4971,27 @@
       "github": "https://github.com/wrappedfi",
       "summary": "Wrapped.com lets investors use their digital assets to lend, borrow, and trade on all major DeFi platforms. Each wrapped asset is fully-collateralized and held with a qualified custodian.",
       "docs": "https://docs.wrapped.com/"
+    },
+    {
+      "name": "Wyndblast",
+      "slug": "wyndblast",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "In development",
+      "highlight": "Lore driven one-of-a-kind multiplayer strategy auto-battler P2E game set in an adorabley vibrant fantasy universe  ",
+      "logo": "/img/wyndblast.png",
+      "website": "https://wyndblast.com/",
+      "twitter": "https://twitter.com/WyndBlast",
+      "telegram": "https://t.me/wyndblast",
+      "github": "",
+      "discord": "https://discord.gg/NgjwWGTSeb",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
     },
     {
       "name": "Wyre",
