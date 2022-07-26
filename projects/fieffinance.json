@@ -1,0 +1,21 @@
+{
+  "name": "Fief Finance",
+  "slug": "fieffinance",
+  "tags": [
+    "gaming",
+    "guild"
+  ],
+  "status": "In development",
+  "highlight": "Economic Guild for GameFi projects in the Avalanche ecosystem",
+  "logo": "/img/fieffinance.png",
+  "website": "https://www.fief.finance/",
+  "twitter": "https://twitter.com/FiefGuild",
+  "telegram": "",
+  "github": "",
+  "discord": "http://discord.gg/fief-finance",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$FIEF"
+}

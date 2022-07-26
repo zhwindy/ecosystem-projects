@@ -1,0 +1,21 @@
+{
+  "name": "Ragnarok",
+  "slug": "ragnarok",
+  "tags": [
+    "gaming",
+    "mmorpg"
+  ],
+  "status": "In development",
+  "highlight": "A blend of Lore, Web 3.0, and a Role playing game, allowing you to interact using your NFT as your digital identity",
+  "logo": "/img/ragnarok.png",
+  "website": "https://ragnarok.xyz/",
+  "twitter": "https://twitter.com/RagnarokMeta",
+  "telegram": "",
+  "github": "",
+  "discord": "https://t.co/MAhpVwzVgG",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$RAG"
+}

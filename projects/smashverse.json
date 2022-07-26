@@ -1,0 +1,21 @@
+{
+  "name": "Smashverse",
+  "slug": "smashverse",
+  "tags": [
+    "gaming",
+    "mmorpg"
+  ],
+  "status": "In development",
+  "highlight": "Next generation brawl game. Battle. Smash. Earn. ",
+  "logo": "/img/smashverse.png",
+  "website": "https://www.smashverse.com/",
+  "twitter": "http://twitter.com/smashversegame",
+  "telegram": "",
+  "github": "",
+  "discord": "http://discord.gg/smashverse",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arcade Galaxy",
+  "slug": "arcadegalaxy",
+  "tags": [
+    "gaming",
+    "arcade",
+    "casual"
+  ],
+  "status": "In development",
+  "highlight": "Social game where users can host and visit eachother's created world with their customizable charachters",
+  "logo": "/img/arcadegalaxy.png",
+  "website": "https://www.arcadegalaxy.space/",
+  "twitter": "https://twitter.com/arcadegalaxy_?s=21",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.gg/arcadegalaxy",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$RCADE, $LFG"
+}
