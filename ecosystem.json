@@ -2347,27 +2347,6 @@
       "docs": "",
       "cmc": "",
       "date": "2022-01-14",
-      "token": ""
-    },
-    {
-      "name": "Heroes Chained",
-      "slug": "heroeschained",
-      "tags": [
-        "gaming",
-        "mmorpg"
-      ],
-      "status": "In development",
-      "highlight": "Heroes Chained is a real time fantasy action RPG game, where the player becomes a Guild Master and gathers heroes.",
-      "logo": "/img/heroeschained.png",
-      "website": "https://heroeschained.com/",
-      "twitter": "https://twitter.com/HeroesChained",
-      "telegram": "https://t.me/HeroesChainedOfficial",
-      "github": "",
-      "discord": "https://discord.com/invite/heroeschained",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
       "token": "$HeC"
     },
     {
@@ -2559,28 +2538,6 @@
       "github": "",
       "token": "IME",
       "cmc": "https://coinmarketcap.com/currencies/imperium-empires/"
-    },
-    {
-      "name": "Imperium Empires",
-      "slug": "imperiumempires",
-      "tags": [
-        "gaming",
-        "rts",
-        "mmorpg"
-      ],
-      "status": "In development",
-      "highlight": "The world's first AAA GameFi 2.0 space metaverse.",
-      "logo": "/img/imperiumempires.png",
-      "website": "https://imperiumempires.com/",
-      "twitter": "https://twitter.com/ImperiumEmpires",
-      "telegram": "https://www.t.me/ImperiumEmpiresOfficial",
-      "github": "",
-      "discord": "https://discord.gg/ImperiumEmpires",
-      "summary": "AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. It revolutionizes blockchain games through high quality graphics and gameplay, well-thought-out tokenomics, team-to-earn guild mechanics and deep DeFi integration.",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": "$IME"
     },
     {
       "name": "Injective Protocol",
