@@ -1,0 +1,21 @@
+{
+  "name": "Heroes Chained",
+  "slug": "heroeschained",
+  "tags": [
+    "gaming",
+    "mmorpg"
+  ],
+  "status": "In development",
+  "highlight": "Heroes Chained is a real time fantasy action RPG game, where the player becomes a Guild Master and gathers heroes.",
+  "logo": "/img/heroeschained.png",
+  "website": "https://heroeschained.com/",
+  "twitter": "https://twitter.com/HeroesChained",
+  "telegram": "https://t.me/HeroesChainedOfficial",
+  "github": "",
+  "discord": "https://discord.com/invite/heroeschained",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$HeC"
+}

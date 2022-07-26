@@ -1,0 +1,22 @@
+{
+  "name": "Castle Crush",
+  "slug": "castlecrush",
+  "tags": [
+    "gaming",
+    "card game",
+    "rts"
+  ],
+  "status": "In development",
+  "highlight": "Building the laregest real-time multiplayer strategy game on the blockchain. Own your cards. Build your deck. Battle over one million payers worldwide and compete in leagues to win incredible prizes!",
+  "logo": "/img/castlecrush.png",
+  "website": "https://www.castlecrushgame.com/",
+  "twitter": "https://twitter.com/playcastlecrush",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.com/invite/castlecrush",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}

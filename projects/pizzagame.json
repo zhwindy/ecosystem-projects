@@ -1,0 +1,21 @@
+{
+  "name": "Pizza Game",
+  "slug": "pizzagame",
+  "tags": [
+    "gaming",
+    "idle"
+  ],
+  "status": "Live",
+  "highlight": "Inspired by Cookie Clicker - we are bringing your favorite childhood game to Avalanche",
+  "logo": "/img/pizzagame.jpg",
+  "website": "https://pizza.game/",
+  "twitter": "https://twitter.com/PizzadotGame",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.gg/pizzagame",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$PIZZA, $SODA"
+}

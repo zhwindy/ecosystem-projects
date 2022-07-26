@@ -1,0 +1,21 @@
+{
+  "name": "Defimons",
+  "slug": "defimons",
+  "tags": [
+    "gaming",
+    "casual"
+  ],
+  "status": "In development",
+  "highlight": "Capture monsters, buy outfits, and design your own apartments, as you explore the beautiful world of Defimons",
+  "logo": "/img/defimons.jpg",
+  "website": "https://beta.defimons.com/",
+  "twitter": "https://twitter.com/TheDeFimons",
+  "telegram": "",
+  "github": "",
+  "discord": "https://discord.com/invite/defimons",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}

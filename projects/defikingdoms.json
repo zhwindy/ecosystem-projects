@@ -1,0 +1,21 @@
+{
+  "name": "Defi Kingdoms",
+  "slug": "defikingdoms",
+  "tags": [
+    "gaming",
+    "mmorpg"
+  ],
+  "status": "Live",
+  "highlight": "Idle RPG style game layered on top of a DEX with PvP and questing elements coming soon",
+  "logo": "/img/defikingdoms.png",
+  "website": "https://defikingdoms.com/",
+  "twitter": "https://twitter.com/DefiKingdoms",
+  "telegram": "https://t.me/defikingdoms",
+  "github": "",
+  "discord": "https://discord.gg/defikingdoms",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": "$JEWEL $CRYSTAL"
+}
