@@ -1,0 +1,16 @@
+{
+  "name": "Cask Protocol",
+  "slug": "cask-protocol",
+  "date": "2022-08-03",
+  "highlight": "Cask is a decentralized non-custodial protocol for managing recurring money flows in web3.",
+  "logo": "/img/cask.svg",
+  "tags": ["dapp", "dao", "utility", "payments"],
+  "status": "live",
+  "website": "https://www.cask.fi",
+  "twitter": "https://www.twitter.com/caskprotocol",
+  "summary": "Cask is a decentralized non-custodial protocol for managing recurring money flows in web3. The Cask mission is to onboard web2 payment agreements into non-custodial alternatives in addition to providing web3 with sustainable business models. Cask is also building ways to automatically interact with various web3/defi protocols. The Cask wallet acts as a combined checking and savings account. Funds are transferred into a yield-bearing account and then those funds are usable in automatic money flows.",
+  "telegram": "https://t.me/caskprotocol",
+  "discord": "https://www.cask.fi/discord",
+  "docs":"https://docs.cask.fi/",
+  "github":"https://github.com/CaskProtocol/"
+}
