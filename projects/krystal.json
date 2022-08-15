@@ -1,9 +1,9 @@
 {
   "name": "Krystal",
-  "slug": "Krystal",
+  "slug": "krystal",
   "date": "2021-04-01",
   "highlight": "Krystal is a multi-chain platform to easily access popular DeFi services and manage your assets including NFTs",
-  "logo": "https://user-images.githubusercontent.com/108636782/177260879-ac39d202-0c2e-49c0-b171-1274add496ae.png",
+  "logo": "krystal.png",
   "tags": ["swap", "defi", "wallet", "launchpads"],
   "status": "live",
   "website": "https://krystal.app/",
