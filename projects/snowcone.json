@@ -1,0 +1,20 @@
+{
+  "name": "Snowcone",
+  "slug": "snw",
+  "date": "2022-08-15",
+  "highlight": "A suite of tools for DAO creation funding, and organizational management.",
+  "logo": "/img/SnowCone.png",
+  "tags": [
+    "dao", "defi", "dapp"
+  ],
+  "status": "comming soon",
+  "website": "https://www.snowcones.io",
+  "twitter": "https://twitter.com/SnowConeDAO",
+  "summary": "",
+  "telegram": "",
+  "discord": "https://discord.com/invite/zhdPepG5Ww",
+  "docs": "",
+  "github": "https://github.com/SnowConeDao",
+  "token": "",
+  "cmc": ""
+}
