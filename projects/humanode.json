@@ -1,0 +1,19 @@
+{
+"name": "Humanode",
+"slug": "humanode",
+"date": "2021-09-01",
+"highlight": "Humanode is the first crypto-biometric network where one human = one node = one vote that brings Sybil resistance and innovative governance models to the crypto industry using private biometric technology. The direct biometric service allows NFT projects, DAOs, GameFi, metaverse, and other Dapps to integrate and enable unique online identities.",
+"logo": "/img/humanode.png",
+"tags": ["blockchain", "defi", "biometrics"],
+"status": "coming soon",
+"website": "https://humanode.io/",
+"twitter": "https://twitter.com/humanode_io",
+"summary": "Humanode is the first crypto-biometric network where one human = one node = one vote that brings Sybil resistance and innovative governance models to the crypto industry using private biometric technology. Built as an EVM Compatible Substrate chain. The direct biometric service allows NFT projects, DAOs, GameFi, metaverse, and other Dapps to integrate and enable unique online identities. Joined by over 10k unique human beings.",
+"telegram": "https://t.me/humanodes",
+"discord": "https://link.humanode.io/chat",
+"docs": "https://www.notion.so/humanode-network/Humanode-s-Public-Documents-46236f6327bc44d48583f713b44d275d",
+"github": "https://github.com/humanode-network",
+"token": "HMND",
+"cmc": ""
+
+}
