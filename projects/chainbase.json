@@ -1,0 +1,23 @@
+{
+  "name": "Chainbase",
+  "slug": "Chainbase",
+  "tags": [
+    "tools",
+    "nodes",
+    "api",
+    "infrastructure"
+  ],
+  "status": "live",
+  "highlight": "Chainbase is a leading Web3 blockchain interaction layer infrastructure to provide cloud-based API services for developer",
+  "logo": "/img/chainbase.svg",
+  "website": "https://chainbase.online/",
+  "twitter": "https://twitter.com/ChainbaseOnline",
+  "telegram": "",
+  "github": "https://github.com/chainbase-labs",
+  "discord": "https://discord.gg/DUWMmtprz4",
+  "summary": "Chainbase is providing a toolkit for devs (esp Web3 back-end devs) to easily build apps on blockchain networks.Solving the key issue: interactions (querying/indexing/etc.) with on-chain/multi-chain data",
+  "docs": "https://docs.chainbase.online/",
+  "cmc": "",
+  "date": "2022-02-01",
+  "token": ""
+}
