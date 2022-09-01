@@ -1,0 +1,17 @@
+{
+    "name": "Intract",
+    "slug": "intract",
+    "date": "2022-08-26",
+    "highlight": "On-chain marketing platform for you to analyze and grow your users.",
+    "logo": "/img/intract.png",
+    "tags": [
+        "api", 
+        "dashboard",
+        "sdk", 
+        "tools"
+    ],
+    "status": "live",
+    "website": "https://www.intract.buzz/",
+    "twitter": "https://twitter.com/intractbuzz",
+    "summary": "Intract is a one-stop platform to supercharge your product and marketing. The first-of-its-kind solution helps you analyze & grow your on-chain users as well as engage your off-chain community. After successful case studies with 50+ marquee projects across DeFi, GameFi & NFT verticals, Intract has plans to advance further and increase its functionality. This makes Intract the go-to solution for analytics and marketing for any web3 project."
+}
