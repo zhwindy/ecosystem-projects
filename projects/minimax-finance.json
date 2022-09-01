@@ -1,0 +1,16 @@
+{
+    "name": "Minimax Finance",
+    "slug": "minimax-finance",
+    "date": "2022-01-18",
+    "highlight": "Easy entry into vaults from multiple platforms in one dapp with no need to convert. Stop loss and take profit for staking, lending and farming.",
+    "logo": "/img/minimax-finance.svg",
+    "tags": ["defi","yield farming","multi-chain","portfolio"],
+    "status": "live",
+    "website": "http://minimax.finance/",
+    "twitter": "https://twitter.com/MinimaxFinance",
+    "summary": "Minimax Finance enables DeFi users to manage all or at least most of their DeFi investments in one dapp instead of many. The multi-chain platform provides a number of unique features for more profitable and safer DeFi experience: 1. Stop-loss and take-profit for staking, lending and farming. 2. Entry into vaults with any token users have, no need to pre-convert tokens. 3. Withdrawal of deposits into any token, so users can immediately get the asset they want when they are done with farming.  4. Advanced risk and money management - unlimited positions in the same vault for higher yields. 5. Token section, where users can quickly identify idle tokens and put them to work. 6. Cross-chain swaps. 7. More features being developed as you read this.",
+    "telegram": "https://t.me/MinimaxFinanceChat",
+    "discord": "https://discord.gg/A6GJ6Qktwm",
+    "docs":"https://docs.minimax.finance/",
+    "github":"https://github.com/minimaxdefi"
+}
