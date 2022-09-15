@@ -1,0 +1,15 @@
+{
+  "name": "OKLink Avalanche Explorer",
+  "slug": "OKLink-avalanche-explorer",
+  "date": "2022-07-29",
+  "highlight": "OKLink Avalanche Explorer, allowing users to search transactions, blocks, wallet addresses, smart contracts, and other on-chain data on Avalanche chain.",
+  "logo": "/img/oklink.png",
+  "tags": ["infrastructure","explorer","multi-chain"],
+  "status": "live",
+  "website": "https://www.oklink.com/en/avax/",
+  "twitter": "https://twitter.com/OKLink",
+  "summary": "OKLink blockchain explorer allows users to search through transactions, blocks, wallet addresses, smart contracts, and other on-chain data covering 13 mainstream chains including BTC, ETH, BSC, Avalanche, Solana, polygon，etc.",
+  "telegram": "https://t.me/oukeyunlianoklink",
+  "discord": "https://discord.com/invite/QcywHPgk4S"
+  
+}
