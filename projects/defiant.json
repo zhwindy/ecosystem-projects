@@ -1,0 +1,22 @@
+{
+  "name": "Defiant",
+  "slug": "defiant",
+  "date": "2020-06-15",
+  "highlight": "A self-custodial multiblockchain mobile wallet. Your gateway to a decentralized world.",
+  "logo": "/img/defiant.png",
+  "tags": [
+    "wallet",
+    "custody",
+    "defi"
+  ],
+  "status": "live",
+  "website": "https://defiantapp.tech",
+  "twitter": "https://twitter.com/defiantApp",
+  "summary": "Defiant is a self-custodial multiblockchain mobile wallet that focuses on enabling users to access the Defi world with the most easy and rich UX they can get but without loosing the custody of their funds.",
+  "telegram": "https://t.me/DefiantES",
+  "discord": "https://discord.gg/F4meNYF9yy",
+  "docs": "",
+  "github": "https://github.com/AndinaDeFi/",
+  "token": "",
+  "cmc": ""
+}
