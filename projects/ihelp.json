@@ -1,0 +1,17 @@
+{
+  "name": "IHELP Protocol",
+  "slug": "ihelp",
+  "date": "2022-08-15",
+  "highlight": "Charitable Giving Powered by Web3. IHELP is a decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide.",
+  "logo": "/img/ihelp.png",
+  "tags": ["defi","dapp","yield farming","multi-chain"],
+  "status": "live",
+  "website": "https://app.ihelp.finance",
+  "twitter": "https://twitter.com/ihelp_defi",
+  "summary": "The IHELP protocol serves the intersection of Web3 and charitable giving. IHELP is a decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide. IHELP allows you to sustainably & automatically donate yield to any charity in the ecosystem. You can also easily donate tokens directly if you wish.",
+  "telegram": "https://t.me/ihelp_finance",
+  "discord": "https://discord.com/invite/qXKE27dZVb",
+  "docs":"https://docs.ihelp.finance",
+  "github":"https://github.com/ihelp-finance",
+  "token":"HELP"
+}
