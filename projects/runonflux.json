@@ -1,0 +1,24 @@
+{
+    "name": "RunOnFlux",
+    "slug": "flux-cloud",
+    "tags": [
+      "infrastructure",
+      "multi-chain",
+      "utility",
+      "nodes"
+    ],
+    "status": "live",
+    "highlight": "Flux is the new generation of decentralized cloud infrastructure. By, and For the People.",
+    "logo": "/img/runonflux.png",
+    "website": "https://runonflux.io",
+    "twitter": "https://twitter.com/RunOnFlux",
+    "telegram": "https://t.me/runonflux",
+    "github": "https://github.com/RunOnFlux",
+    "discord": "https://discord.io/runonflux",
+    "summary": "Flux is the new generation of decentralized cloud infrastructure. By, and For the People. The community is the backbone by spinning up high computational nodes to support it, and getting incentivized to do so. Developers can decentralize their infrastructure needs via Docker containers and gravitate towards Web3. The advantages are redundancy, interoperability, decentralization, and cost efficiency. Start your Web3 journey the right way - Deploy on Flux!",
+    "docs": "https://docs.runonflux.io/",
+    "cmc": "https://coinmarketcap.com/currencies/zel/",
+    "date": "2022-07-25",
+    "token": "FLUX"
+  }
+  
