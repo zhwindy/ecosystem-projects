@@ -1,0 +1,23 @@
+{
+  "name": "Swapsicle",
+  "slug": "swapsicle",
+  "tags": [
+    "defi",
+    "exchange",
+    "dex",
+    "swap"
+  ],
+  "status": "live",
+  "highlight": "DeFi but with more flavour, built by the community, for the community.",
+  "logo": "/img/swapsicle.png",
+  "website": "https://www.swapsicle.io/",
+  "twitter": "https://twitter.com/SwapsicleDEX",
+  "telegram": "",
+  "github": "https://github.com/swapsicledex",
+  "discord": "https://discord.gg/swapsicle",
+  "summary": "",
+  "docs": "https://docs.swapsicle.io/",
+  "cmc": "https://coinmarketcap.com/currencies/swapsicle/",
+  "date": "2022-10-13",
+  "token": "POPS"
+}
