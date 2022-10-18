@@ -1,6 +1,7 @@
-{"name": "Core web",
+{
+"name": "Core web",
 "slug": "coreweb",
-"tags": "dapp","portfolio","ava labs",
+"tags": ["dapp","portfolio","ava labs"],
 "status": "live",
 "highlight": "View portfolio dashboards, transact on chain, and unlock the growing number of use cases and integrations with Web3 tools. Built to support all wallets, with custom features when used with the Core Extension.",
 "logo": "/img/core.png",
@@ -13,4 +14,5 @@
 "docs": "",
 "cmc": "",
 "data": "",
-"token": ""}
+"token": ""
+}
