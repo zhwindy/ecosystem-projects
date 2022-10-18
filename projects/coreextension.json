@@ -1,0 +1,17 @@
+{"name": "Core extension",
+"slug": "coreextension",
+"tags": ["wallet","nft","ava labs"],
+"status": "live",
+"highlight": "A free, non-custodial browser extension engineered for Avalanche users. Core brings Avalanche dApps, NFTs, bridges, Subnets, and more — directly to you.",
+"logo": "/img/core.png",
+"website": "https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb ",
+"twitter": "https://twitter.com/coreapp",
+"telegram": "",
+"github": "https://github.com/ava-labs",
+"discord": "https://discord.com/invite/RwXY7P6",
+"summary": "A free, all-in-one command center giving users a more intuitive and comprehensive way to use Web3 across the Avalanche network, Avalanche Subnets, and Ethereum. Core browser extension is optimized for use with Core web, a free, non-custodial wallet. Together they are key components of the Core product suite that brings dApps, NFTs, Avalanche Bridge, Subnets, L2s, and more, directly to Web3 users. Veterans and those new to Web3 know one of the biggest obstacles to using Web3 is complexity. Core abstracts away the usual difficulties and pitfalls of user experience, enabling users to focus on what to do on-chain rather than how to do it. In fact, Core web and Core extension's interconnected experience gives users flexibility and freedom during their Web3 journey.",
+"docs": "",
+"cmc": "",
+"data": "",
+"token": ""
+}
