@@ -1,7 +1,7 @@
 {
 "name": "WrapTag",
 "slug": "wraptagsubnet",
-"tags": "subnet","NFT",
+"tags": ["subnet","NFT"],
 "status": "live",
 "highlight": "An Avalanche Subnet: WrapTag brings trust, value, and transparency into authentic collections with irreversible ownership history exists on an NFT + Physical NFC Tag+ Decentralized Web App",
 "logo": "/img/wraptag.png",
