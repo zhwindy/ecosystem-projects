@@ -1,0 +1,20 @@
+{
+  "name": "Rango",
+  "slug": "rango",
+  "date": "2022-10-31",
+  "highlight": "First MultiChain Bridge and Dex Aggregator Supporting 10,000 Tokens across +40 Chains",
+  "logo": "/img/rango.png",
+  "tags": [
+    "DeFi","dApp","Multi-Chain","Dex","Exchange","Bridge","Aggregator"
+  ],
+  "status": "live",
+  "website": "https://app.rango.exchange",
+  "twitter": "https://twitter.com/RangoExchange",
+  "summary": "CrossChain Bridge & Dex Aggregator",
+  "telegram": "https://t.me/rangoexchange",
+  "discord": "",
+  "docs": "https://docs.rango.exchange",
+  "github": "https://github.com/rango-exchange",
+  "token": "",
+  "cmc": ""
+}
