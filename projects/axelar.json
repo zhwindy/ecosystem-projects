@@ -1,20 +1,19 @@
 {
   "name": "Axelar",
   "slug": "axelar",
-  "tags": [
-    "tools"
-  ],
-  "status": "",
-  "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms.",
-  "logo": "/img/axelar.svg",
+  "date": "2022-09-27",
+  "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms",
+  "logo": "/img/axelar.png",
+  "tags": ["bridge","multi-chain"],
+  "status": "live",
   "website": "https://axelar.network/",
   "twitter": "https://twitter.com/axelarcore",
+  "summary": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
   "telegram": "https://t.me/axelarcommunity",
-  "github": "",
   "discord": "https://discord.com/invite/aRZ3Ra6f7D",
-  "summary": "",
-  "docs": "",
-  "cmc": "",
-  "date": "",
-  "token": ""
+  "docs":"https://docs.axelar.dev",
+  "github":"https://github.com/axelarnetwork",
+  "token":"AXL",
+  "cmc":"https://coinmarketcap.com/currencies/axelar/"
+
 }
