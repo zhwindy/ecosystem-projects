@@ -3840,22 +3840,25 @@
     {
       "name": "OpenOcean",
       "slug": "openocean",
+      "date": "2021-07-29",
+      "highlight": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Avalanche to offer users the best swap rates.",
+      "logo": "/img/OpenOcean.png",
       "tags": [
-        "defi"
+        "defi",
+        "dex",
+        "multi-chain",
+        "swap"
       ],
-      "status": "",
-      "highlight": "A full aggregation protocol for crypto trading.",
-      "logo": "/img/openocean.png",
+      "status": "live",
       "website": "https://openocean.finance/",
-      "twitter": "https://twitter.com/OpenOceanGlobal",
-      "telegram": "",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
+      "twitter": " https://twitter.com/OpenOceanGlobal",
+      "summary": "Leading DEX aggregator to bring users the best swap return for decentralized crypto trading by integrating the most liquidity sources across a wide range of blockchains into one seamless trading interface.",
+      "telegram": "https://t.me/OOFinance",
+      "discord": "https://discord.gg/C7PHQaKdNX",
+      "docs": "https://docs.openocean.finance/",
+      "github": "https://github.com/openocean-finance/",
+      "token": "OOE",
+      "cmc": "https://coinmarketcap.com/currencies/openocean/"
     },
     {
       "name": "Orion Protocol",
