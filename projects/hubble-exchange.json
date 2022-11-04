@@ -1,0 +1,21 @@
+{
+  "name": "Hubble Exchange",
+  "slug": "hubble-exchange",
+  "date": "2022-10-12",
+  "highlight": "Multi-Collateral, Cross-Margin Perpetual Futures on Avalanche",
+  "logo": "/img/hubble-exchange.svg",
+  "tags": [
+    "defi",
+    "dex",
+    "exchange",
+    "avalanche native"
+  ],
+  "status": "live",
+  "website": "https://app.hubble.exchange?ref=ecosystem.avax.network",
+  "twitter": "https://twitter.com/HubbleExchange",
+  "telegram": "https://t.me/HubbleExchange",
+  "discord": "https://discord.gg/DykaUCXC3t",
+  "docs": "https://docs.hubble.exchange",
+  "github": "https://github.com/hubble-exchange",
+  "summary": "Hubble Exchange is a decentralized platform for trading perpetual futures on Avalanche. Utilizing Avalanche’s low fees and highly scalable infrastructure, Hubble aims to offer a Avalanche-native experience for trading perpetual futures with its multi-collateral, cross-margin design."
+}
