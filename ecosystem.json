@@ -1814,25 +1814,27 @@
       "cmc": ""
     },
     {
-      "name": "Defi Kingdoms",
+      "name": "DeFi Kingdoms",
       "slug": "defikingdoms",
       "tags": [
         "gaming",
-        "mmorpg"
+        "dex",
+        "nft",
+        "play-to-earn"
       ],
-      "status": "Live",
-      "highlight": "Idle RPG style game layered on top of a DEX with PvP and questing elements coming soon",
+      "status": "live",
+      "highlight": "A cross-chain fasntasy RPG game with beautiful pixel art, tokenized resources, and Hero NFTs integrated with DeFi protocols.",
       "logo": "/img/defikingdoms.png",
       "website": "https://defikingdoms.com/",
       "twitter": "https://twitter.com/DefiKingdoms",
       "telegram": "https://t.me/defikingdoms",
-      "github": "",
+      "github": "https://github.com/DefiKingdoms",
       "discord": "https://discord.gg/defikingdoms",
       "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": "$JEWEL $CRYSTAL"
+      "docs": "https://docs.defikingdoms.com/",
+      "cmc": "https://coinmarketcap.com/currencies/defi-kingdoms/",
+      "date": "2021-08-23",
+      "token": "$JEWEL"
     },
     {
       "name": "Defimons",
@@ -1917,26 +1919,27 @@
       "token": ""
     },
     {
-      "name": "DFK Crystalville Subnet",
+      "name": "DFK Chain Subnet",
       "slug": "dfksubnet",
       "tags": [
-        "subnet",
+        "infrastructure",
+        "ecosystem",
         "gaming",
         "nft"
       ],
       "status": "live",
-      "highlight": "An Avalanche Subnet: The go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+      "highlight": "The go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
       "logo": "/img/dfksubnet.png",
       "website": "https://defikingdoms.com/crystalvale/",
       "twitter": "https://twitter.com/DefiKingdoms",
-      "telegram": "",
-      "github": "",
-      "discord": "https://discord.com/invite/defikingdoms",
+      "telegram": "https://t.me/defikingdoms",
+      "github": "https://github.com/DefiKingdoms",
+      "discord": "https://discord.gg/defikingdoms",
       "summary": "",
-      "docs": "",
-      "cmc": "https://www.coingecko.com/en/coins/defi-kingdoms-crystal",
-      "data": "",
-      "token": ""
+      "docs": "https://docs.defikingdoms.com/",
+      "cmc": "https://coinmarketcap.com/currencies/defi-kingdoms/",
+      "date": "2022-03-31",
+      "token": "$JEWEL"
     },
     {
       "name": "Dogeon",
