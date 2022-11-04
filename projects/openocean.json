@@ -2,7 +2,7 @@
   "name": "OpenOcean",
   "slug": "openocean",
   "date": "2021-07-29",
-  "highlight": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Avalanche to offer users the best swap rates."
+  "highlight": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Avalanche to offer users the best swap rates.",
   "logo": "/img/OpenOcean.png",
   "tags": ["defi","dex","multi-chain","swap"],
   "status": "live",
