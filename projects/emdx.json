@@ -1,0 +1,23 @@
+{
+  "name": "EMDX",
+  "slug": "emdx",
+  "date": "2022-06-20",
+  "highlight": "Decentralized derivative exchange. Trade with low fees and up to 10x leverage.",
+  "logo": "/img/emdx.svg",
+  "tags": [
+    "defi",
+    "exchange",
+    "perpetual",
+    "spot"
+  ],
+  "status": "live",
+  "website": "https://app.emdx.io",
+  "twitter": "https://twitter.com/emdx_io",
+  "summary": "EMDX is a decentralized derivative protocol with an in-house spot market, expanding risk hedging tools for traditional assets into the DeFi environment and allowing token listing “on demand” with “liquidity as a service” from the start.",
+  "telegram": "https://t.me/emdx_es",
+  "discord": "https://discord.com/invite/RwXY7P6",
+  "docs": "https://docs.emdx.io",
+  "github": "",
+  "token": "",
+  "cmc": ""
+}
