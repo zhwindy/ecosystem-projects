@@ -1,0 +1,18 @@
+{
+  "name": "Aboard Exchange",
+  "slug": "aboard-exchange",
+  "date": "2022-03-01",
+  "highlight": "Avalanche's exchange, providing the most number of perpetual trading pairs and hedging trading strategies.",
+  "logo": "/img/aboard-exchange.png", 
+  "tags": ["api","exchange","multi-chain"],
+  "status": "live",
+  "website": "https://aboard.exchange/trade",
+  "twitter": "https://twitter.com/AboardExchange",
+  "summary": "Aboard is an order book decentralized derivatives exchange that will bring centralized trading experience into the DeFi world. We offer the most number of perpetual trading pairs on Avalanche and Arbitrum. Traders can enjoy 0 gas fee and an ultra-smooth trading experience.",
+  "telegram": "https://t.me/avalancheavax",
+  "discord": "https://discord.com/invite/n7r73ehJtf",
+  "docs":"https://docs.aboard.exchange/",
+  "github":"https://github.com/Aboard-Exchange"
+
+  
+}
