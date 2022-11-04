@@ -1,0 +1,20 @@
+{
+  "name": "Rango",
+  "slug": "rango",
+  "date": "2022-10-31",
+  "highlight": "First MultiChain Bridge and Dex Aggregator Supporting 10,000 Tokens across +40 Chains",
+  "logo": "/img/rango.png",
+  "tags": [
+    "multi-chain", "dex", "bridge", "dapp"
+  ],
+  "status": "live",
+  "website": "https://app.rango.exchange",
+  "twitter": "https://twitter.com/RangoExchange",
+  "summary": "Rango Exchange is the most powerful multi-chain platform for DEX and bridges all around the crypto world, based on reachability and support of top blockchains. It doesn’t matter where the user is and where he or she wants to go, Rango will be able to find the most secure, fast, and easy path for it. We currently support more than 40 blockchains, 100 DEXes, 10 bridges, and 6 different wallets, with a modern and user-friendly UX in the market. Rango exchange provides a versatile API that helps dApps and wallets get free from hassles of connecting to dozens of blockchains, tracking transactions, verifying third-party providers, etc. The whole idea behind our API is to make it the easiest possible solution on the market.",
+  "telegram": "https://t.me/rangoexchange",
+  "discord": "",
+  "docs": "https://docs.rango.exchange",
+  "github": "https://github.com/rango-exchange",
+  "token": "",
+  "cmc": ""
+}
