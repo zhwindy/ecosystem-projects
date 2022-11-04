@@ -970,7 +970,7 @@
         "infrastructure"
       ],
       "status": "",
-      "highlight": "We are a Web3 infrastructure company with the core mission to improve the developer experience within the Avalanche ecosystem by offering: Blast - API provider platform that aims to solve Web 3 infrastructure issues related to reliability and latency, by employing geographically distributed third-party nodes. Avalanche Bridge Warden - one of the eight bridge wardens to secure the Avalanche Bridge with our infrastructure supported by our outstanding technical team.",
+      "highlight": "An interface for Blockchain APIs consumers and node providers.",
       "logo": "/img/bware-labs.jpeg",
       "website": "https://bwarelabs.com/",
       "twitter": "https://twitter.com/BwareLabs",
