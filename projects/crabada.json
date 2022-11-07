@@ -2,18 +2,20 @@
   "name": "Crabada",
   "slug": "crabada",
   "tags": [
-    "gaming"
+    "auto-battler",
+    "gaming",
+    "NFT"
   ],
-  "status": "",
-  "highlight": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
+  "status": "live",
+  "highlight": "Discover An Exciting Undersea Adventure!",
   "logo": "/img/crabada.png",
   "website": "https://www.crabada.com/",
   "twitter": "https://twitter.com/playcrabada?s=11",
   "telegram": "https://t.me/playcrabada",
   "github": "",
-  "discord": "https://discord.gg/Djy57Zhau9",
-  "summary": "",
-  "docs": "",
+  "discord": "https://discord.gg/PlayCrabada",
+  "summary": "Crabada is an idle game available on most native platforms. Earn in-game rewards in exciting, Battle gameplay as you send your Crabada NFTs to Battle for riches and glory!",
+  "docs": "https://docs.crabada.com/",
   "cmc": "",
   "date": "",
   "token": ""
