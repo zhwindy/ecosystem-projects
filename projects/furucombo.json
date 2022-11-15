@@ -1,0 +1,23 @@
+{
+    "name": "Furucombo",
+    "slug": "furucombo",
+    "date": "2022-11-21",
+    "highlight": "Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.",
+    "logo": "/img/furucombo.svg",
+    "tags": [
+        "dapp",
+        "defi",
+        "multi-chain",
+        "wealth management"
+    ],
+    "status": "live",
+    "website": "https://furucombo.app/",
+    "twitter": "https://twitter.com/furucombo",
+    "summary": "Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.",
+    "telegram": "https://t.me/furucombo",
+    "discord": "https://discord.com/invite/JuamDaq",
+    "docs": "https://docs.furucombo.app/",
+    "github": "https://github.com/dinngodev",
+    "token": "COMBO",
+    "cmc": "https://www.coingecko.com/en/coins/furucombo"
+}
