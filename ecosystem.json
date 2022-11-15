@@ -2339,26 +2339,6 @@
       "token": ""
     },
     {
-      "name": "FTX",
-      "slug": "ftx",
-      "tags": [
-        "exchange"
-      ],
-      "status": "",
-      "highlight": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
-      "logo": "/img/ftx.svg",
-      "website": "https://ftx.com/",
-      "twitter": "https://twitter.com/ftx_us",
-      "telegram": "https://t.me/FTX_US_Official",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
-    },
-    {
       "name": "Futureswap",
       "slug": "avalanche-futureswap-dex",
       "date": "2022-04-26",
