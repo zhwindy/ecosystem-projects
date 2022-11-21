@@ -1,0 +1,18 @@
+{
+    "name": "XY Finance",
+    "slug": "xy-finance",
+    "date": "2021-08-24",
+    "highlight": "XY Finance is a cross-chain interoperability protocol aggregating DEXs & Bridges. With the ultimate routing across multi-chains, borderless and seamless swapping is just one click away.",
+    "logo": "/img/xy-finance.png",
+    "tags": ["bridge", "multi-chain", "defi", "dex", "swap", "trading"],
+    "status": "live",
+    "website": "https://xy.finance/",
+    "twitter": "https://twitter.com/xyfinance",
+    "summary": "XY Finance is a cross-chain interoperability protocol aggregating DEXs & Bridges. With the ultimate routing across multi-chains, borderless and seamless swapping is just one click away. Currently, we have supported 13 chains, including Ethereum, BSC, Fantom, Polygon, Arbitrum, Optimism, Avalanche C-Chain, Cronos, KCC, ThunderCore, Klaytn, Astar, and Moonriver.",
+    "telegram": "https://t.me/xyfinance",
+    "discord": "https://discord.com/invite/xyfinance",
+    "docs":"https://docs.xy.finance/",
+    "github":"https://github.com/xy-finance",
+    "token":"XY",
+    "cmc":"https://coinmarketcap.com/currencies/xy-finance/"
+}
