@@ -5272,6 +5272,28 @@
       "cmc": "https://coinmarketcap.com/currencies/unmarshal/"
     },
     {
+      "name": "VCRED",
+      "slug": "VCRED",
+      "tags": [
+        "defi",
+        "amm",
+        "dex"
+      ],
+      "status": "",
+      "highlight": "",
+      "logo": "/img/VCRED_logo.png",
+      "website": "https://vcred.trade",
+      "twitter": "https://twitter.com/cred_v",
+      "telegram": "",
+      "github": "",
+      "discord": "discord.gg/vcred",
+      "summary": "A DeFi protocol built around automation, our smart Market Maker introduces a new paradigm for treasury, launches and staking",
+      "docs": "https://docs.vcred.trade/",
+      "cmc": "",
+      "date": "06/21",
+      "token": ""
+    },
+    {
       "name": "Vector Finance",
       "slug": "vectorfinance",
       "date": "2022-02-27",
