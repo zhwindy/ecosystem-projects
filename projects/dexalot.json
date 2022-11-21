@@ -1,0 +1,19 @@
+{
+    "name": "Dexalot",
+    "slug": "dexalot",
+    "date": "2021-12-06",
+    "highlight": "Dexalot is a central limit order book exchange aiming at bringing the traditional centralized exchange user experience without compromising on decentralization and transparency.",
+    "logo": "/img/dexalot.png",
+    "tags": ["avalanche native","dex","trading","defi"],
+    "status": "live",
+    "website": "https://dexalot.com",
+    "twitter": "https://twitter.com/dexalotcom",
+    "summary": "As the first decentralized exchange on Avalanche with a central limit order book, Dexalot offers users a non-custodial and transparent decentralized trading environment while rivaling the look and feel of centralized exchanges. Initially building on the Avalanche C-chain, Dexalot also has 100% compatibility with the mature Ethereum Virtual Machine technolgy as an Avalanche Subnet. With a low cost of deployment and operation, Dexalot boasts transaction speeds with 1-2 second finality, plus transactional throughput that can process thousands of transactions per second. With Dexalot, you truly own your trade.",
+    "telegram": "https://t.me/dexalot",
+    "discord": "https://discord.gg/dexalot",
+    "docs":"https://docs.dexalot-test.com ",
+    "github":"https://github.com/Dexalot",
+    "token":"ALOT",
+    "cmc":"https://coinmarketcap.com/currencies/dexalot/"
+  
+  }
