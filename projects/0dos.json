@@ -1,0 +1,17 @@
+{
+  "name": "0dos",
+  "slug": "0dos",
+  "date": "2022-12-02",
+  "highlight": "The Optimal DEX Aggregator",
+  "logo": "/img/0dos.png",
+  "tags": ["defi","dapp"],
+  "status": "live",
+  "website": "https://app.odos.xyz/swap/43114/AVAX/DAI.e",
+  "twitter": "https://twitter.com/odosprotocol",
+  "summary": "Odos is a DEX aggregator leveraging a unique algorithm to traverse a large universe of possible token swap combinations and non-linear paths, delivering the greatest savings to its users!",
+  "telegram": "https://t.me/OdosProtocol",
+  "discord": "https://discord.com/invite/odos",
+  "docs":"",
+  "github":"",
+  "token":""
+}
