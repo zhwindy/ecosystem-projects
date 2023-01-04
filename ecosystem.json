@@ -4634,6 +4634,25 @@
       "cmc": "https://coinmarketcap.com/currencies/scottybeam/"
     },
     {
+      "name": "Secure3",
+      "slug": "secure3",
+      "date": "2022-12-16",
+      "highlight": "Secure3 provides trustworthy security services for projects, competitive incentive model for auditors and white hats, and verifiable security track record for the community",
+      "logo": "/img/secure3.svg",
+      "tags": [
+        "security",
+        "ecosystem",
+        "infrastructure",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://www.Secure3.io",
+      "twitter": "https://twitter.com/secure3io",
+      "summary": "Empower a more Affordable, Efficient, and Secure Web3",
+      "docs": "https://www.secure3.io/academy",
+      "github": ""
+    },
+    {
       "name": "Securitize",
       "slug": "securitize",
       "tags": [
