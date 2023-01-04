@@ -1,9 +1,9 @@
 {
   "name": "Secure3",
-  "slug": "Secure3",
+  "slug": "secure3",
   "date": "2022-12-16",
   "highlight": "Secure3 provides trustworthy security services for projects, competitive incentive model for auditors and white hats, and verifiable security track record for the community",
-  "logo": "/img/vertical.svg",
+  "logo": "/img/secure3.svg",
   "tags": [
     "security",
     "ecosystem",
@@ -15,5 +15,5 @@
   "twitter": "https://twitter.com/secure3io",
   "summary": "Empower a more Affordable, Efficient, and Secure Web3",
   "docs": "https://www.secure3.io/academy",
-  "github": "https://www.secure3.io/academy",
+  "github": "",
 }
