@@ -1,0 +1,18 @@
+{
+  "name": "AvalancheGo",
+  "slug": "avalanchego",
+  "tags": ["security", "sdk", "tools"],
+  "status": "Live",
+  "highlight": "Go implementation of an Avalanche node.",
+  "logo": "/img/avalanchego.svg",
+  "website": "https://github.com/ava-labs/avalanchego",
+  "twitter": "",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
