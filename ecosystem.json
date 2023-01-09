@@ -6,7 +6,10 @@
       "date": "2022-12-02",
       "highlight": "The Optimal DEX Aggregator",
       "logo": "/img/0dos.png",
-      "tags": ["defi", "dapp"],
+      "tags": [
+        "defi",
+        "dapp"
+      ],
       "status": "live",
       "website": "https://app.odos.xyz/swap/43114/AVAX/DAI.e",
       "twitter": "https://twitter.com/odosprotocol",
@@ -23,7 +26,9 @@
       "date": "2022-02-16",
       "highlight": "A distributed network for various protocols, enabling the most protected operations in DeFi",
       "logo": "/img/1inch.png",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "live",
       "website": "https://app.1inch.io/#/43114/swap/AVAX/USDT.e",
       "twitter": "https://twitter.com/1inch",
@@ -38,7 +43,9 @@
     {
       "name": "Aave",
       "slug": "aave",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
       "logo": "/img/aave.svg",
@@ -59,7 +66,11 @@
       "date": "2022-03-01",
       "highlight": "Avalanche's exchange, providing the most number of perpetual trading pairs and hedging trading strategies.",
       "logo": "/img/aboard-exchange.png",
-      "tags": ["api", "exchange", "multi-chain"],
+      "tags": [
+        "api",
+        "exchange",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://aboard.exchange/trade",
       "twitter": "https://twitter.com/AboardExchange",
@@ -75,7 +86,12 @@
       "date": "2017-07-14",
       "highlight": "AIKON's ORE ID is a multi-chain Web3 auth and wallet creation solution that supports familiar social logins, SMS and email.",
       "logo": "/img/aikon.svg",
-      "tags": ["wallet", "multi-chain", "tools", "enterprise"],
+      "tags": [
+        "wallet",
+        "multi-chain",
+        "tools",
+        "enterprise"
+      ],
       "status": "live",
       "website": "https://developer.oreid.io/",
       "twitter": "https://twitter.com/TeamAIKON",
@@ -90,7 +106,9 @@
     {
       "name": "Aleph.Im",
       "slug": "aleph-im",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A cross-blockchain layer-2 network.",
       "logo": "/img/aleph-im.svg",
@@ -108,7 +126,9 @@
     {
       "name": "Alliance Block",
       "slug": "alliance-block",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized blockchain-agnostic layer 2 that converts any digital asset to a bankable product.",
       "logo": "/img/alliance-block.svg",
@@ -126,7 +146,9 @@
     {
       "name": "Allnodes",
       "slug": "allnodes",
-      "tags": ["nodes"],
+      "tags": [
+        "nodes"
+      ],
       "status": "",
       "highlight": "A non-custodial platform for hosting masternodes and full nodes, as well as full staking services.",
       "logo": "/img/allnodes.svg",
@@ -144,7 +166,9 @@
     {
       "name": "Ankr",
       "slug": "ankr",
-      "tags": ["nodes"],
+      "tags": [
+        "nodes"
+      ],
       "status": "",
       "highlight": "Makes participating in, building on, and using blockchains and protocols easy and accessible.",
       "logo": "/img/ankr.svg",
@@ -162,7 +186,9 @@
     {
       "name": "Anyswap",
       "slug": "anyswap",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A unified ecosystem for full circulation of digital assets, bringing more liquidity to the market.",
       "logo": "/img/anyswap.svg",
@@ -180,7 +206,9 @@
     {
       "name": "Ape Board",
       "slug": "ape-board",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Cross-chain DeFi Dashboard. Built by apes, for apes.",
       "logo": "/img/ape-board.png",
@@ -198,7 +226,11 @@
     {
       "name": "Arcade Galaxy",
       "slug": "arcadegalaxy",
-      "tags": ["gaming", "arcade", "casual"],
+      "tags": [
+        "gaming",
+        "arcade",
+        "casual"
+      ],
       "status": "In development",
       "highlight": "Social game where users can host and visit eachother's created world with their customizable charachters",
       "logo": "/img/arcadegalaxy.png",
@@ -216,7 +248,9 @@
     {
       "name": "Arrow DFMs",
       "slug": "arrow-dfms",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A low-level protocol for creating and settling options on publicly available asset prices.",
       "logo": "/img/arrow-dfms.svg",
@@ -237,7 +271,12 @@
       "date": "2021-01-01",
       "highlight": "With the Arweave-Avalanche integration, you can now pay for Arweave storage in AVAX.",
       "logo": "/img/arweave.svg",
-      "tags": ["bridge", "multi-chain", "nft", "art"],
+      "tags": [
+        "bridge",
+        "multi-chain",
+        "nft",
+        "art"
+      ],
       "status": "live",
       "website": "https://arweave.org/",
       "twitter": "https://twitter.com/arweaveteam",
@@ -255,7 +294,11 @@
       "date": "2021-10-01",
       "highlight": "Ascenders is the first Triple A open world Action RPG with a fully decentralized, player driven economy deployed on Avalanche.",
       "logo": "/img/ascenders.png",
-      "tags": ["ava-labs", "gaming", "play-to-earn"],
+      "tags": [
+        "ava-labs",
+        "gaming",
+        "play-to-earn"
+      ],
       "status": "coming soon",
       "website": "https://www.ascenders.gg/",
       "twitter": "https://twitter.com/PlayAscenders",
@@ -270,7 +313,12 @@
     {
       "name": "Atlantis Loans",
       "slug": "atlantis-loans",
-      "tags": ["defi", "lending", "dapp", "governance"],
+      "tags": [
+        "defi",
+        "lending",
+        "dapp",
+        "governance"
+      ],
       "status": "",
       "highlight": "Open source and non-custodial cross-chain liquidity protocol for earning interest on deposits and borrowing assets.",
       "logo": "/img/atlantis-loans.svg",
@@ -291,7 +339,10 @@
       "date": "2022-02-04",
       "highlight": "Building the Web3 social metaverse by connecting Web3 with social, gaming and education in one lightweight virtual world that's accessible to everybody.",
       "logo": "/img/atlantisworld.png",
-      "tags": ["culture", "gaming"],
+      "tags": [
+        "culture",
+        "gaming"
+      ],
       "status": "live",
       "website": "http://atlantis.world",
       "twitter": "https://twitter.com/atlantis0x",
@@ -309,7 +360,12 @@
       "date": "2021-09-01",
       "highlight": "Atlas DEX provides a seamless trading experience for anyone looking to make native cross-chain swaps across leading blockchains.",
       "logo": "/img/atlas-dex.svg",
-      "tags": ["bridge", "defi", "dex", "multi-chain"],
+      "tags": [
+        "bridge",
+        "defi",
+        "dex",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://app.atlasdex.finance/",
       "twitter": "https://twitter.com/atlas_dex",
@@ -323,7 +379,9 @@
     {
       "name": "Avado",
       "slug": "avado",
-      "tags": ["nodes"],
+      "tags": [
+        "nodes"
+      ],
       "status": "",
       "highlight": "Plug-and-play hardware nodes for Avalanche.",
       "logo": "/img/avado.svg",
@@ -344,7 +402,11 @@
       "date": "2021-07-29",
       "highlight": "The Avalanche Bridge, providing a fast, low cost, and secure means to move assets between chains.",
       "logo": "/img/avalanche-bridge.png",
-      "tags": ["ava labs", "bridge", "multi-chain"],
+      "tags": [
+        "ava labs",
+        "bridge",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://bridge.avax.network/login",
       "twitter": "https://twitter.com/avalancheavax",
@@ -359,7 +421,9 @@
     {
       "name": "Avalanche Explorer",
       "slug": "avalanche-explorer",
-      "tags": ["explorer"],
+      "tags": [
+        "explorer"
+      ],
       "status": "",
       "highlight": "An analytics tool that enables people to search the Avalanche blockchain.",
       "logo": "/img/avalanche-explorer.svg",
@@ -375,9 +439,35 @@
       "token": ""
     },
     {
+      "name": "AvalancheGo",
+      "slug": "avalanchego",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Go implementation of an Avalanche node.",
+      "logo": "/img/avalanchego.svg",
+      "website": "https://github.com/ava-labs/avalanchego",
+      "twitter": "",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Avalaunch",
       "slug": "avalaunch",
-      "tags": ["defi", "ecosystem", "tools"],
+      "tags": [
+        "defi",
+        "ecosystem",
+        "tools"
+      ],
       "status": "",
       "highlight": "A launchpad for new and innovative projects to prepare for launch with fair and broad distribution.",
       "logo": "/img/avalaunch.svg",
@@ -395,7 +485,10 @@
     {
       "name": "Avascan",
       "slug": "avascan",
-      "tags": ["explorer", "tools"],
+      "tags": [
+        "explorer",
+        "tools"
+      ],
       "status": "",
       "highlight": "An independent blockchain explorer for Avalanche.",
       "logo": "/img/avascan.svg",
@@ -413,7 +506,10 @@
     {
       "name": "Avaware",
       "slug": "avaware",
-      "tags": ["defi", "nft"],
+      "tags": [
+        "defi",
+        "nft"
+      ],
       "status": "",
       "highlight": "Farming, Launchpad, and NFT Staking.",
       "logo": "/img/avaware.png",
@@ -429,9 +525,34 @@
       "token": ""
     },
     {
+      "name": "AVAX NFT Stats",
+      "slug": "avax-nft-stats",
+      "tags": [
+        "explorer",
+        "nft",
+        "infrastructure",
+        "stats"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/avax-nft-stats.svg",
+      "website": "https://avaxnftstats.com/",
+      "twitter": "https://twitter.com/AvaxNftStats",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Avaxtars",
       "slug": "avaxtars",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A P2E blockchain game using NFTs as gaming assets and has its own Tokenomics.",
       "logo": "/img/avaxtars.png",
@@ -449,7 +570,10 @@
     {
       "name": "AVME",
       "slug": "avme",
-      "tags": ["nft", "wallet"],
+      "tags": [
+        "nft",
+        "wallet"
+      ],
       "status": "",
       "highlight": "Desktop Wallet for Avalanche, built in C++. Decentralized and Trustless security suite.",
       "logo": "/img/avme.png",
@@ -470,7 +594,10 @@
       "date": "2022-09-27",
       "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms",
       "logo": "/img/axelar.png",
-      "tags": ["bridge", "multi-chain"],
+      "tags": [
+        "bridge",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://axelar.network/",
       "twitter": "https://twitter.com/axelarcore",
@@ -485,7 +612,9 @@
     {
       "name": "Baguette",
       "slug": "baguette",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized exchange on the Avalanche network.",
       "logo": "/img/baguette.png",
@@ -503,7 +632,9 @@
     {
       "name": "Barnbridge",
       "slug": "barnbridge",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A risk tokenizing protocol that lets you leverage or hedge your DeFi positions.",
       "logo": "/img/barnbridge.svg",
@@ -521,7 +652,10 @@
     {
       "name": "Battle for Giostone",
       "slug": "battleforgiostone",
-      "tags": ["gaming", "moba"],
+      "tags": [
+        "gaming",
+        "moba"
+      ],
       "status": "In development",
       "highlight": "Battle For Giostone is the first authentic P2E MOBA game developed by M-Tech entertainment.",
       "logo": "/img/battleforgiostone.png",
@@ -539,7 +673,9 @@
     {
       "name": "BENQI",
       "slug": "benqi",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A non-custodial algorithmic liquidity market protocol.",
       "logo": "/img/benqi.svg",
@@ -557,7 +693,9 @@
     {
       "name": "BiFrost",
       "slug": "bifrost",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "The universal multichain middleware.",
       "logo": "/img/bifrost.svg",
@@ -575,7 +713,9 @@
     {
       "name": "BiLira",
       "slug": "bilira",
-      "tags": ["stablecoin"],
+      "tags": [
+        "stablecoin"
+      ],
       "status": "",
       "highlight": "A Turkish Lira stablecoin on Avalanche.",
       "logo": "/img/bilira.svg",
@@ -593,7 +733,9 @@
     {
       "name": "Binance",
       "slug": "binance",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "The worlds biggest crypto exchange in the world by volume.",
       "logo": "/img/binance.svg",
@@ -611,7 +753,9 @@
     {
       "name": "Bitfinex",
       "slug": "bitfinex",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A digital asset trading platform offering services for traders and global liquidity providers.",
       "logo": "/img/bitfinex.svg",
@@ -629,7 +773,11 @@
     {
       "name": "Bitgo",
       "slug": "bitgo",
-      "tags": ["custody", "portfolio", "institutional"],
+      "tags": [
+        "custody",
+        "portfolio",
+        "institutional"
+      ],
       "status": "live",
       "highlight": "Enables our clients to navigate the complex landscape of digital assets with a connected, compliant, and secure suite of solutions.",
       "logo": "/img/bitgo.webp",
@@ -647,7 +795,9 @@
     {
       "name": "BitKeep Wallet",
       "slug": "bitkeepwallet",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "BitKeep Wallet is an digital currency wallet and can send and receive SOL/SPL tokens.",
       "logo": "/img/bitkeep.svg",
@@ -665,7 +815,9 @@
     {
       "name": "BitMart",
       "slug": "bitmart",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A crypto exchange with secure crypto products and services.",
       "logo": "/img/bitmart.png",
@@ -683,7 +835,9 @@
     {
       "name": "Bitpanda",
       "slug": "bitpanda",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "Gives new users easy access to digital assets and regular users control over their portfolio.",
       "logo": "/img/bitpanda.svg",
@@ -701,7 +855,9 @@
     {
       "name": "Blockchain Academy Chile",
       "slug": "blockchain-academy-chile",
-      "tags": ["ecosystem"],
+      "tags": [
+        "ecosystem"
+      ],
       "status": "",
       "highlight": "A blockchain training and education platform for LATAM.",
       "logo": "/img/blockchain-academy-chile.svg",
@@ -719,7 +875,9 @@
     {
       "name": "Blockchain Game Alliance",
       "slug": "blockchain-game-alliance",
-      "tags": ["ecosystem"],
+      "tags": [
+        "ecosystem"
+      ],
       "status": "",
       "highlight": "Committed to promoting blockchain within the game industry.",
       "logo": "/img/blockchain-game-alliance.svg",
@@ -737,7 +895,9 @@
     {
       "name": "Blockchain Research Institute",
       "slug": "blockchain-research-institute",
-      "tags": ["ecosystem"],
+      "tags": [
+        "ecosystem"
+      ],
       "status": "",
       "highlight": "Researching the impact of blockchain technology.",
       "logo": "/img/blockchain-research-institute.svg",
@@ -755,7 +915,9 @@
     {
       "name": "Blocknet",
       "slug": "blocknet",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "Infrastructure and cross-chain dApps to interact with Avalanche subnets and smart contracts.",
       "logo": "/img/blocknet.svg",
@@ -776,7 +938,12 @@
       "date": "2022-05-30",
       "highlight": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers",
       "logo": "/img/blockvision.svg",
-      "tags": ["api", "infrastructure", "nodes", "tools"],
+      "tags": [
+        "api",
+        "infrastructure",
+        "nodes",
+        "tools"
+      ],
       "status": "live",
       "website": "https://blockvision.org/",
       "twitter": "https://twitter.com/blockvisionhq",
@@ -788,7 +955,11 @@
     {
       "name": "Bloodloop",
       "slug": "bloodloop",
-      "tags": ["gaming", "fps", "mmorpg"],
+      "tags": [
+        "gaming",
+        "fps",
+        "mmorpg"
+      ],
       "status": "",
       "highlight": "BloodLoop is an MMO-FPS game, with a decentralized economy, inspired by the mechanics of the world's leading competitive video games.",
       "logo": "/img/bloodloop.png",
@@ -806,7 +977,9 @@
     {
       "name": "Bloq",
       "slug": "bloq",
-      "tags": ["nodes"],
+      "tags": [
+        "nodes"
+      ],
       "status": "",
       "highlight": "A suite of multi-blockchain infrastructure services built to grow as your business grows.",
       "logo": "/img/bloq.svg",
@@ -824,7 +997,9 @@
     {
       "name": "Boring DAO",
       "slug": "boring-dao",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A decentralized bridge that connects all blockchain assets.",
       "logo": "/img/boring-dao.svg",
@@ -845,7 +1020,9 @@
       "date": "2020-01-01",
       "highlight": "The ultimate mobile wallet for Avalanche",
       "logo": "/img/bridge-wallet.svg",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "live",
       "website": "https://www.mtpelerin.com/bridge-wallet/avalanche-wallet",
       "twitter": "https://twitter.com/mtpelerin",
@@ -855,7 +1032,9 @@
     {
       "name": "BtcTurk",
       "slug": "btcturk",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "Turkey's first and the world’s fourth cryptocurrency exchange platform.",
       "logo": "/img/btcturk.svg",
@@ -873,7 +1052,9 @@
     {
       "name": "Bware Labs",
       "slug": "bware-labs",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "An interface for Blockchain APIs consumers and node providers.",
       "logo": "/img/bware-labs.jpeg",
@@ -891,7 +1072,9 @@
     {
       "name": "bZx",
       "slug": "bzx",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A protocol that offers open finance margin trading & lending on Avalanche.",
       "logo": "/img/bzx.svg",
@@ -907,9 +1090,36 @@
       "token": ""
     },
     {
+      "name": "Campfire",
+      "slug": "campfire",
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/campfire.svg",
+      "website": "https://campfire.exchange/",
+      "twitter": "https://twitter.com/0xCampfire",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Canary Exchange",
       "slug": "canary-exchange",
-      "tags": ["defi", "exchange", "portfolio"],
+      "tags": [
+        "defi",
+        "exchange",
+        "portfolio"
+      ],
       "status": "",
       "highlight": "Canary is a DEX which runs on Avalanche with yield farming with very high APRs and staking features.",
       "logo": "/img/canary-exchange.png",
@@ -927,7 +1137,10 @@
     {
       "name": "Cartesi",
       "slug": "cartesi",
-      "tags": ["tools", "oracle"],
+      "tags": [
+        "tools",
+        "oracle"
+      ],
       "status": "",
       "highlight": "Layer-2 infrastructure to enable a Linux environment on Avalanche.",
       "logo": "/img/cartesi.svg",
@@ -948,7 +1161,12 @@
       "date": "2022-08-03",
       "highlight": "Cask is a decentralized non-custodial protocol for managing recurring money flows in web3.",
       "logo": "/img/cask.svg",
-      "tags": ["dapp", "dao", "utility", "payments"],
+      "tags": [
+        "dapp",
+        "dao",
+        "utility",
+        "payments"
+      ],
       "status": "live",
       "website": "https://www.cask.fi",
       "twitter": "https://www.twitter.com/caskprotocol",
@@ -961,7 +1179,11 @@
     {
       "name": "Castle Crush",
       "slug": "castlecrush",
-      "tags": ["gaming", "card game", "rts"],
+      "tags": [
+        "gaming",
+        "card game",
+        "rts"
+      ],
       "status": "In development",
       "highlight": "Building the laregest real-time multiplayer strategy game on the blockchain. Own your cards. Build your deck. Battle over one million payers worldwide and compete in leagues to win incredible prizes!",
       "logo": "/img/castlecrush.png",
@@ -979,7 +1201,11 @@
     {
       "name": "Celer cBridge",
       "slug": "cbridge",
-      "tags": ["infrastructure", "bridge", "multi-chain"],
+      "tags": [
+        "infrastructure",
+        "bridge",
+        "multi-chain"
+      ],
       "status": "live",
       "highlight": "Fast, secure and low-fee asset bridge that supports 130+ tokens across 30+ blockchains",
       "logo": "/img/cbridge.png",
@@ -997,7 +1223,11 @@
     {
       "name": "Celer Network",
       "slug": "celer",
-      "tags": ["infrastructure", "bridge", "multi-chain"],
+      "tags": [
+        "infrastructure",
+        "bridge",
+        "multi-chain"
+      ],
       "status": "live",
       "highlight": "A blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains.",
       "logo": "/img/celer.svg",
@@ -1013,9 +1243,32 @@
       "token": "CELR"
     },
     {
+      "name": "Centrifuge",
+      "slug": "centrifuge",
+      "tags": [
+        "defi",
+        "lending"
+      ],
+      "status": "Live",
+      "highlight": "Regulatory compliant lending pools for RWAs.",
+      "logo": "/img/centrifuge.svg",
+      "website": "https://centrifuge.io/",
+      "twitter": "https://twitter.com/centrifuge",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Ceramic",
       "slug": "ceramic",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "The decentralized network for data stream processing.",
       "logo": "/img/ceramic.svg",
@@ -1033,7 +1286,12 @@
     {
       "name": "Chainbase",
       "slug": "Chainbase",
-      "tags": ["tools", "nodes", "api", "infrastructure"],
+      "tags": [
+        "tools",
+        "nodes",
+        "api",
+        "infrastructure"
+      ],
       "status": "live",
       "highlight": "Chainbase is a leading Web3 blockchain interaction layer infrastructure to provide cloud-based API services for developer",
       "logo": "/img/chainbase.svg",
@@ -1051,7 +1309,10 @@
     {
       "name": "Chainlink",
       "slug": "chainlink",
-      "tags": ["oracle", "defi"],
+      "tags": [
+        "oracle",
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized oracle network that enables smart contracts to securely access various data sources.",
       "logo": "/img/chainlink.svg",
@@ -1072,7 +1333,10 @@
       "date": "2022-02-04",
       "highlight": "Managed blockchain services making it simple to launch and scale decentralized networks and apps.",
       "logo": "/img/chainstack.png",
-      "tags": ["infrastructure", "nodes"],
+      "tags": [
+        "infrastructure",
+        "nodes"
+      ],
       "status": "live",
       "website": "https://chainstack.com/",
       "twitter": "https://twitter.com/ChainstackHQ",
@@ -1087,7 +1351,9 @@
     {
       "name": "ChartEx",
       "slug": "chartex",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A leading provider of full candlestick charting.",
       "logo": "/img/chartex.png",
@@ -1108,7 +1374,12 @@
       "date": "2022-02-04",
       "highlight": "10,000 algorithmically generated, unique chikn NFTs that lay $egg",
       "logo": "/img/chikn.png",
-      "tags": ["culture", "gaming", "play-to-earn", "nft"],
+      "tags": [
+        "culture",
+        "gaming",
+        "play-to-earn",
+        "nft"
+      ],
       "status": "live",
       "website": "https://chikn.farm/",
       "twitter": "https://twitter.com/chikn_nft",
@@ -1126,7 +1397,10 @@
       "date": "2022-04-02",
       "highlight": "Open Automation Platform for WEB 3.",
       "logo": "/img/cian.svg",
-      "tags": ["defi", "portfolio"],
+      "tags": [
+        "defi",
+        "portfolio"
+      ],
       "status": "live",
       "website": "https://cian.app/",
       "twitter": "https://twitter.com/CIAN_protocol",
@@ -1141,7 +1415,9 @@
     {
       "name": "Coin98 Wallet",
       "slug": "coin98-wallet",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A simple and secure non-custodial crypto wallet.",
       "logo": "/img/coin98-wallet.svg",
@@ -1159,7 +1435,9 @@
     {
       "name": "Coinbase",
       "slug": "coinbase",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency",
       "logo": "/img/coinbase.svg",
@@ -1177,7 +1455,9 @@
     {
       "name": "Coinone",
       "slug": "coinone",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A financial service company for asset management.",
       "logo": "/img/coinone.svg",
@@ -1198,7 +1478,12 @@
       "date": "2022-03-16",
       "highlight": "Community-driven Avalanche ecosystem accelerator.",
       "logo": "/img/colony.svg",
-      "tags": ["accelerator", "dao", "ecosystem", "funds"],
+      "tags": [
+        "accelerator",
+        "dao",
+        "ecosystem",
+        "funds"
+      ],
       "status": "live",
       "website": "https://www.colonylab.io/",
       "twitter": "https://twitter.com/Colonylab",
@@ -1211,7 +1496,9 @@
     {
       "name": "Complus Network",
       "slug": "complus-network",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A multichain decentralized trading protocol.",
       "logo": "/img/complus-network.svg",
@@ -1229,7 +1516,9 @@
     {
       "name": "Cook Finance",
       "slug": "cook-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "live",
       "highlight": "Defi index and structured strategy execution platform",
       "logo": "/img/cook-finance.png",
@@ -1247,7 +1536,12 @@
     {
       "name": "Copper Platform",
       "slug": "copper-platform",
-      "tags": ["defi", "launchpad", "infrastructure", "multichain"],
+      "tags": [
+        "defi",
+        "launchpad",
+        "infrastructure",
+        "multichain"
+      ],
       "status": "live",
       "highlight": "A platform for open, transparent, and user-friendly participation in Liquidity Bootstrapping Pools.",
       "logo": "/img/copper-platform.png",
@@ -1265,7 +1559,10 @@
     {
       "name": "Copper",
       "slug": "copper",
-      "tags": ["security", "infrastructure"],
+      "tags": [
+        "security",
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "The institutional gateway to digital asset investing.",
       "logo": "/img/copper.svg",
@@ -1283,7 +1580,11 @@
     {
       "name": "Core extension",
       "slug": "coreextension",
-      "tags": ["wallet", "nft", "ava labs"],
+      "tags": [
+        "wallet",
+        "nft",
+        "ava labs"
+      ],
       "status": "live",
       "highlight": "A free, non-custodial browser extension engineered for Avalanche users. Core brings Avalanche dApps, NFTs, bridges, Subnets, and more — directly to you.",
       "logo": "/img/core.png",
@@ -1301,7 +1602,11 @@
     {
       "name": "Core web",
       "slug": "coreweb",
-      "tags": ["dapp", "portfolio", "ava labs"],
+      "tags": [
+        "dapp",
+        "portfolio",
+        "ava labs"
+      ],
       "status": "live",
       "highlight": "View portfolio dashboards, transact on chain, and unlock the growing number of use cases and integrations with Web3 tools. Built to support all wallets, with custom features when used with the Core Extension.",
       "logo": "/img/core.png",
@@ -1319,7 +1624,9 @@
     {
       "name": "Covalent",
       "slug": "covalent",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A leading provider of indexing solutions for blockchains.",
       "logo": "/img/covalent.svg",
@@ -1337,7 +1644,11 @@
     {
       "name": "Crabada",
       "slug": "crabada",
-      "tags": ["auto-battler", "gaming", "NFT"],
+      "tags": [
+        "auto-battler",
+        "gaming",
+        "NFT"
+      ],
       "status": "live",
       "highlight": "Discover An Exciting Undersea Adventure!",
       "logo": "/img/crabada.png",
@@ -1358,7 +1669,11 @@
       "date": "2016-01-01",
       "highlight": "The best platform to buy cryptocurrencies in Latin America",
       "logo": "/img/cryptomkt.png",
-      "tags": ["exchange", "security", "wallet"],
+      "tags": [
+        "exchange",
+        "security",
+        "wallet"
+      ],
       "status": "live",
       "website": "https://www.cryptomkt.com/",
       "twitter": "https://twitter.com/CryptoMKT",
@@ -1373,7 +1688,9 @@
     {
       "name": "CryptoRefills",
       "slug": "cryptorefills",
-      "tags": ["payments"],
+      "tags": [
+        "payments"
+      ],
       "status": "",
       "highlight": "Enable people all over the world to spend cryptocurrency for their everyday needs.",
       "logo": "/img/cryptorefills.svg",
@@ -1391,7 +1708,12 @@
     {
       "name": "CryptoSeals",
       "slug": "cryptoseals",
-      "tags": ["art", "nft", "gaming", "play-to-earn"],
+      "tags": [
+        "art",
+        "nft",
+        "gaming",
+        "play-to-earn"
+      ],
       "status": "live",
       "highlight": "CryptoSeals is the first generative NFT collection built on Avalanche. P2E browser game is coming soon!",
       "logo": "/img/cryptoseals.png",
@@ -1409,7 +1731,10 @@
     {
       "name": "Curate",
       "slug": "curate",
-      "tags": ["defi", "nft"],
+      "tags": [
+        "defi",
+        "nft"
+      ],
       "status": "",
       "highlight": "A DeFi shopping experience.",
       "logo": "/img/curate.svg",
@@ -1459,7 +1784,10 @@
     {
       "name": "Curve",
       "slug": "curve-fi",
-      "tags": ["defi", "exchange"],
+      "tags": [
+        "defi",
+        "exchange"
+      ],
       "status": "",
       "highlight": "An exchange liquidity pool designed for extremely efficient stablecoin trading.",
       "logo": "/img/curve-fi.svg",
@@ -1477,7 +1805,9 @@
     {
       "name": "CyberFi",
       "slug": "cyberfi",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An automation-focused asset management platform.",
       "logo": "/img/cyberfi.svg",
@@ -1495,7 +1825,10 @@
     {
       "name": "DappRadar",
       "slug": "dappradar",
-      "tags": ["ecosystem", "tools"],
+      "tags": [
+        "ecosystem",
+        "tools"
+      ],
       "status": "",
       "highlight": "The Dapp discovery platform.",
       "logo": "/img/dappradar.svg",
@@ -1513,7 +1846,9 @@
     {
       "name": "DCTDao",
       "slug": "dctdao",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A quantum-resistant cross-chain DEX.",
       "logo": "/img/dctdao.png",
@@ -1531,7 +1866,9 @@
     {
       "name": "DeBank",
       "slug": "debank",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A DeFi wallet for managaging and tracking your DeFi portfolio.",
       "logo": "/img/debank.png",
@@ -1549,7 +1886,9 @@
     {
       "name": "Decentology",
       "slug": "decentology",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "Empowering developers to create full-stack Avalanche dApps in less than 15 minutes.",
       "logo": "/img/decentology.png",
@@ -1567,7 +1906,9 @@
     {
       "name": "DeFi Yield Protocol (DYP)",
       "slug": "defi-yield-protocol-dyp",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A yield farming platform.",
       "logo": "/img/defi-yield-protocol-dyp.jpeg",
@@ -1588,7 +1929,11 @@
       "date": "2020-06-15",
       "highlight": "A self-custodial multiblockchain mobile wallet. Your gateway to a decentralized world.",
       "logo": "/img/defiant.png",
-      "tags": ["wallet", "custody", "defi"],
+      "tags": [
+        "wallet",
+        "custody",
+        "defi"
+      ],
       "status": "live",
       "website": "https://defiantapp.tech",
       "twitter": "https://twitter.com/defiantApp",
@@ -1603,7 +1948,12 @@
     {
       "name": "DeFi Kingdoms",
       "slug": "defikingdoms",
-      "tags": ["gaming", "dex", "nft", "play-to-earn"],
+      "tags": [
+        "gaming",
+        "dex",
+        "nft",
+        "play-to-earn"
+      ],
       "status": "live",
       "highlight": "A cross-chain fasntasy RPG game with beautiful pixel art, tokenized resources, and Hero NFTs integrated with DeFi protocols.",
       "logo": "/img/defikingdoms.png",
@@ -1621,7 +1971,10 @@
     {
       "name": "Defimons",
       "slug": "defimons",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "In development",
       "highlight": "Capture monsters, buy outfits, and design your own apartments, as you explore the beautiful world of Defimons",
       "logo": "/img/defimons.jpg",
@@ -1642,7 +1995,10 @@
       "date": "2022-04-01",
       "highlight": "Degis is the next generation all in one protection protocol, first on Avalanche",
       "logo": "img/degis.svg",
-      "tags": ["defi", "digital security"],
+      "tags": [
+        "defi",
+        "digital security"
+      ],
       "status": "live",
       "website": "https://degis.io",
       "twitter": "https://twitter.com/ProjectDegis",
@@ -1657,7 +2013,9 @@
     {
       "name": "Deloitte",
       "slug": "deloitte",
-      "tags": ["government"],
+      "tags": [
+        "government"
+      ],
       "status": "live",
       "highlight": "The Close As You Go™ (CAYG) platform helps state and local government officials simplify and streamline disaster reimbursement applications to the FEMA",
       "logo": "/img/deloitte.png",
@@ -1678,7 +2036,12 @@
       "date": "",
       "highlight": "DeltaPrime brings the best of Avalanche together in one ecosystem, and provides its users with extra capital so they can multiply their returns.",
       "logo": "/img/deltaprime.png",
-      "tags": ["ecosystem", "defi", "lending", "yield farming"],
+      "tags": [
+        "ecosystem",
+        "defi",
+        "lending",
+        "yield farming"
+      ],
       "status": "coming soon",
       "website": "http://deltaprime.io/",
       "twitter": "https://twitter.com/DeltaPrimeDefi",
@@ -1691,7 +2054,9 @@
     {
       "name": "DEX Guru",
       "slug": "dex-guru",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "Unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
       "logo": "/img/dex-guru.jpeg",
@@ -1712,7 +2077,12 @@
       "date": "2021-12-06",
       "highlight": "Dexalot is a central limit order book exchange aiming at bringing the traditional centralized exchange user experience without compromising on decentralization and transparency.",
       "logo": "/img/dexalot.png",
-      "tags": ["avalanche native", "dex", "trading", "defi"],
+      "tags": [
+        "avalanche native",
+        "dex",
+        "trading",
+        "defi"
+      ],
       "status": "live",
       "website": "https://dexalot.com",
       "twitter": "https://twitter.com/dexalotcom",
@@ -1727,7 +2097,12 @@
     {
       "name": "DFK Chain Subnet",
       "slug": "dfksubnet",
-      "tags": ["infrastructure", "ecosystem", "gaming", "nft"],
+      "tags": [
+        "infrastructure",
+        "ecosystem",
+        "gaming",
+        "nft"
+      ],
       "status": "live",
       "highlight": "The go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
       "logo": "/img/dfksubnet.png",
@@ -1745,7 +2120,10 @@
     {
       "name": "Dogeon",
       "slug": "dogeon",
-      "tags": ["gaming", "racing"],
+      "tags": [
+        "gaming",
+        "racing"
+      ],
       "status": "",
       "highlight": "Dogeon is a Gaming NFT project on Avalanche. It's our first DOG RACE Play-to-Earn game, which makes it all worth while!",
       "logo": "/img/dogeon.png",
@@ -1766,7 +2144,11 @@
       "date": "2021-12-15",
       "highlight": "Domi Online is a play to earn 3D Blockchain MMORPG underpinned by NFTs.",
       "logo": "/img/domi-online.png",
-      "tags": ["gaming", "defi", "multi-chain"],
+      "tags": [
+        "gaming",
+        "defi",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://domionline.io/",
       "twitter": "https://twitter.com/domionline",
@@ -1780,7 +2162,11 @@
     {
       "name": "Dragon Crypto Gaming",
       "slug": "dragoncryptogaming",
-      "tags": ["gaming", "mmorpg", "idle"],
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "idle"
+      ],
       "status": "Live",
       "highlight": "Full-Fledged Retro RPG on the Blockchain with multiple games includinga  text-based RPG and an idle breeding NFT game",
       "logo": "/img/dragoncryptogaming.jpg",
@@ -1798,7 +2184,9 @@
     {
       "name": "DSLA Protocol",
       "slug": "dsla-protocol",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A developer risk management framework.",
       "logo": "/img/dsla-protocol.svg",
@@ -1816,7 +2204,9 @@
     {
       "name": "DxSale",
       "slug": "dxsale",
-      "tags": ["launchpads"],
+      "tags": [
+        "launchpads"
+      ],
       "status": "",
       "highlight": "Decentralized Token Creation, Launchpad, Locker, platform",
       "logo": "/img/dxsale.png",
@@ -1834,7 +2224,10 @@
     {
       "name": "E-Money",
       "slug": "e-money",
-      "tags": ["stablecoin", "defi"],
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
       "status": "",
       "highlight": "An issuer of transparent, interest-bearing, currency-backed stablecoins.",
       "logo": "/img/e-money.svg",
@@ -1852,7 +2245,9 @@
     {
       "name": "Elk Finance",
       "slug": "elk-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized network for cross-chain liquidity.",
       "logo": "/img/elk-finance.png",
@@ -1873,7 +2268,12 @@
       "date": "2022-06-20",
       "highlight": "Decentralized derivative exchange. Trade with low fees and up to 10x leverage.",
       "logo": "/img/emdx.svg",
-      "tags": ["defi", "exchange", "perpetual", "spot"],
+      "tags": [
+        "defi",
+        "exchange",
+        "perpetual",
+        "spot"
+      ],
       "status": "live",
       "website": "https://app.emdx.io",
       "twitter": "https://twitter.com/emdx_io",
@@ -1888,7 +2288,9 @@
     {
       "name": "Encode Club",
       "slug": "encode-club",
-      "tags": ["ecosystem"],
+      "tags": [
+        "ecosystem"
+      ],
       "status": "",
       "highlight": "A community of university students, researchers and developers building in blockchain.",
       "logo": "/img/encode-club.svg",
@@ -1906,7 +2308,10 @@
     {
       "name": "Eternity",
       "slug": "eternity",
-      "tags": ["gaming", "mmorpg"],
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "Eternity is a fantasy-themed NFT Role-Playing Game featuring a beautifully crafted, living world that is constantly evolving.",
       "logo": "/img/eternity.jpg",
@@ -1924,7 +2329,9 @@
     {
       "name": "Ethernal",
       "slug": "ethernal",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "live",
       "highlight": "Open-soure block explorer for private EVM-based chains",
       "logo": "/img/ethernal.png",
@@ -1942,7 +2349,10 @@
     {
       "name": "Fableborn",
       "slug": "fableborn",
-      "tags": ["gaming", "mmorpg"],
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "Raid real players, defend your base and fight amongst heroes, while you embark on a journey to explore the Shatterlands.",
       "logo": "/img/fableborn.png",
@@ -1960,7 +2370,9 @@
     {
       "name": "Figment Network",
       "slug": "figment-network",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "Protocol infrastructure for developers.",
       "logo": "/img/figment-network.svg",
@@ -1978,7 +2390,11 @@
     {
       "name": "Fireblocks",
       "slug": "fireblocks",
-      "tags": ["custody", "portfolio", "institutional"],
+      "tags": [
+        "custody",
+        "portfolio",
+        "institutional"
+      ],
       "status": "live",
       "highlight": "A leading provider of custody and settlement solutions for digital assets to more than 650 banks, hedge funds, and financial institutions.",
       "logo": "/img/fireblocks.jpeg",
@@ -1996,7 +2412,9 @@
     {
       "name": "Flashback",
       "slug": "flashback",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "Bespoke ticketing experience that bridges art, event organizers, and people.",
       "logo": "/img/flashback.jpeg",
@@ -2014,7 +2432,10 @@
     {
       "name": "Flight of Legends",
       "slug": "flightoflegends",
-      "tags": ["gaming", "racing"],
+      "tags": [
+        "gaming",
+        "racing"
+      ],
       "status": "Live",
       "highlight": "We are building an aeronautics metaverse and a fly to earn game on the Avalanche network. This metaverse will provide its users with a fun gaming experience based on the aeronautical world. ",
       "logo": "/img/flightoflegends.png",
@@ -2032,7 +2453,10 @@
     {
       "name": "Frax",
       "slug": "frax",
-      "tags": ["stablecoin", "defi"],
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
       "status": "",
       "highlight": "The first fractional-algorithmic stablecoin protocol.",
       "logo": "/img/frax.svg",
@@ -2050,7 +2474,10 @@
     {
       "name": "Frontier",
       "slug": "frontier",
-      "tags": ["defi", "wallet"],
+      "tags": [
+        "defi",
+        "wallet"
+      ],
       "status": "",
       "highlight": "A chain-agnostic DeFi aggregator that allows users to manage their DeFi applications and assets.",
       "logo": "/img/frontier.svg",
@@ -2071,7 +2498,12 @@
       "date": "2022-11-21",
       "highlight": "Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.",
       "logo": "/img/furucombo.svg",
-      "tags": ["dapp", "defi", "multi-chain", "wealth management"],
+      "tags": [
+        "dapp",
+        "defi",
+        "multi-chain",
+        "wealth management"
+      ],
       "status": "live",
       "website": "https://furucombo.app/",
       "twitter": "https://twitter.com/furucombo",
@@ -2089,7 +2521,12 @@
       "date": "2022-04-26",
       "highlight": "Futureswap, a decentralized, permissionless, AMM-based leveraged trading protocol offers trading on Avalanche through the Trader Joe AMM.",
       "logo": "/img/FutureswapAvalancheLogo.png",
-      "tags": ["trading", "dex", "defi", "swap"],
+      "tags": [
+        "trading",
+        "dex",
+        "defi",
+        "swap"
+      ],
       "status": "coming soon",
       "website": "https://www.futureswap.com",
       "twitter": "https://twitter.com/futureswapx",
@@ -2103,7 +2540,10 @@
     {
       "name": "GameStar+",
       "slug": "gamestar",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "",
       "highlight": "Revolutionizing game night by turning the games you love into rich, interactive experiences. Featuring world-class titles, trusted brands, and your favorite stars - all in one place.",
       "logo": "/img/gamestar.png",
@@ -2121,7 +2561,9 @@
     {
       "name": "Gameswap",
       "slug": "gameswap",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A decentralized P2P exchange and NFT marketplace with a core focus on in-game assets.",
       "logo": "/img/gameswap.svg",
@@ -2137,9 +2579,33 @@
       "token": ""
     },
     {
+      "name": "GMX",
+      "slug": "gmx",
+      "tags": [
+        "perpetual",
+        "defi"
+      ],
+      "status": "Live",
+      "highlight": "A decentralized perpetuals exchange with deep liquidity and minimal slippage.",
+      "logo": "/img/gmx.svg",
+      "website": "https://gmx.io/#/",
+      "twitter": "https://twitter.com/GMX_IO",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "GMX"
+    },
+    {
       "name": "Gods of Asgard",
       "slug": "godsofasgard",
-      "tags": ["gaming", "mmorpg"],
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "Gods of Asgard is a P2E NFT game where players battle, survive, and earn your way through an epic Battle-Royale while exploring the vast open world of Midgard.",
       "logo": "/img/godsofasgard.png",
@@ -2157,7 +2623,9 @@
     {
       "name": "Guarda Wallet",
       "slug": "guarda",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "Safe & secure all-in-one non-custodial crypto wallet.",
       "logo": "/img/guarda.svg",
@@ -2175,7 +2643,10 @@
     {
       "name": "Gunfire AVAX",
       "slug": "gunfireavax",
-      "tags": ["gaming", "fps"],
+      "tags": [
+        "gaming",
+        "fps"
+      ],
       "status": "",
       "highlight": "2D old school style NFT project based on",
       "logo": "/img/gunfireavax.png",
@@ -2193,7 +2664,10 @@
     {
       "name": "HackenProof",
       "slug": "hackenproof",
-      "tags": ["security", "tools"],
+      "tags": [
+        "security",
+        "tools"
+      ],
       "status": "",
       "highlight": "A bug bounty and vulnerability coordination platform.",
       "logo": "/img/hackenproof.svg",
@@ -2211,7 +2685,9 @@
     {
       "name": "Halborn",
       "slug": "halborn",
-      "tags": ["security"],
+      "tags": [
+        "security"
+      ],
       "status": "",
       "highlight": "A cybersecurity team that offers audit, penetration testing, and security products to blockchains.",
       "logo": "/img/halborn.svg",
@@ -2229,7 +2705,9 @@
     {
       "name": "HAPI",
       "slug": "hapi",
-      "tags": ["security"],
+      "tags": [
+        "security"
+      ],
       "status": "",
       "highlight": "On-chain cybersecurity protocol.",
       "logo": "/img/hapi.svg",
@@ -2247,9 +2725,13 @@
     {
       "name": "Hardhat",
       "slug": "hardhat",
-      "tags": ["tools"],
+      "tags": [
+        "sdk",
+        "security",
+        "tools"
+      ],
       "status": "",
-      "highlight": "A next-generation EVM tooling, works out of the box with Avalanche.",
+      "highlight": "EVM Development Environment.",
       "logo": "/img/hardhat.svg",
       "website": "https://hardhat.org/",
       "twitter": "https://twitter.com/HardhatHQ",
@@ -2265,7 +2747,11 @@
     {
       "name": "Hatchy Pocket",
       "slug": "hatchypocket",
-      "tags": ["gaming", "mmorpg", "casual social"],
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "casual social"
+      ],
       "status": "",
       "highlight": "Hatchy pocket is a high fidelity, new age, exclusive digital monster collectable, with limited numbers. Immortalized and proven by NFT technology!",
       "logo": "/img/hatchypocket.png",
@@ -2283,7 +2769,10 @@
     {
       "name": "Heroes Chained",
       "slug": "heroes-chained",
-      "tags": ["nft", "defi"],
+      "tags": [
+        "nft",
+        "defi"
+      ],
       "status": "live",
       "highlight": "Heroes Chained (HC) is a fantasy action RPG game where the player becomes a Guild Master and gathers heroes.",
       "logo": "/img/heroes-chained.png",
@@ -2304,7 +2793,11 @@
       "date": "2022-10-08",
       "highlight": "Hexagate is a web3 security company, on a mission to make web3.0 easy to access and secure for everyone.",
       "logo": "/img/hexagate.svg",
-      "tags": ["security", "tools", "multi-chain"],
+      "tags": [
+        "security",
+        "tools",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://hexagate.com/",
       "twitter": "https://twitter.com/hexagate_",
@@ -2319,7 +2812,10 @@
     {
       "name": "HighRise",
       "slug": "highrise",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "",
       "highlight": "With over 10 million members, Highrise is the leading mobile-first metaverse. Every day, Highrise citizens create rooms, style avatars, host experiences, and much more.",
       "logo": "/img/highrise.jpg",
@@ -2337,7 +2833,9 @@
     {
       "name": "Hodo Network",
       "slug": "hodo-network",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A marketplace for Georeferenced Non-Fungible Tokens (gNFTs).",
       "logo": "/img/hodo-network.png",
@@ -2358,7 +2856,12 @@
       "date": "2021-10-21",
       "highlight": "Homora V2 is the largest multichain lending and leveraged yield farming protocol",
       "logo": "/img/homora-v2.png ",
-      "tags": ["defi", "lending", "yield farming", "multi-chain"],
+      "tags": [
+        "defi",
+        "lending",
+        "yield farming",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://homora-v2.alphafinance.io/",
       "twitter": "https://twitter.com/Alpha_HomoraV2",
@@ -2373,7 +2876,10 @@
     {
       "name": "Hopper Game (APA team)",
       "slug": "hoppergame(apateam)",
-      "tags": ["gaming", "idle"],
+      "tags": [
+        "gaming",
+        "idle"
+      ],
       "status": "Live",
       "highlight": "Idle game where your Hopper NFTs go on adventures to aquire $FLY for upgrades and breeding games.",
       "logo": "/img/hoppergame(apateam).jpg",
@@ -2394,7 +2900,12 @@
       "date": "2022-10-12",
       "highlight": "Multi-Collateral, Cross-Margin Perpetual Futures on Avalanche",
       "logo": "/img/hubble-exchange.svg",
-      "tags": ["defi", "dex", "exchange", "avalanche native"],
+      "tags": [
+        "defi",
+        "dex",
+        "exchange",
+        "avalanche native"
+      ],
       "status": "live",
       "website": "https://app.hubble.exchange?ref=ecosystem.avax.network",
       "twitter": "https://twitter.com/HubbleExchange",
@@ -2410,7 +2921,11 @@
       "date": "2021-09-01",
       "highlight": "Humanode is the first crypto-biometric network where one human = one node = one vote that brings Sybil resistance and innovative governance models to the crypto industry using private biometric technology. The direct biometric service allows NFT projects, DAOs, GameFi, metaverse, and other Dapps to integrate and enable unique online identities.",
       "logo": "/img/humanode.png",
-      "tags": ["blockchain", "defi", "biometrics"],
+      "tags": [
+        "blockchain",
+        "defi",
+        "biometrics"
+      ],
       "status": "coming soon",
       "website": "https://humanode.io/",
       "twitter": "https://twitter.com/humanode_io",
@@ -2425,7 +2940,10 @@
     {
       "name": "Hummingbot",
       "slug": "hummingbot",
-      "tags": ["defi", "bot-dapp"],
+      "tags": [
+        "defi",
+        "bot-dapp"
+      ],
       "status": "",
       "highlight": "A liquidity mining program for Avalanche.",
       "logo": "/img/hummingbot.svg",
@@ -2443,7 +2961,9 @@
     {
       "name": "Huobi",
       "slug": "huobi",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A digital asset trading platform providing secure and convenient trading services.",
       "logo": "/img/huobi.svg",
@@ -2461,7 +2981,9 @@
     {
       "name": "HurricaneSwap",
       "slug": "hurricaneswap",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "HurricaneSwap is a cross-chain liquidity DEX based on Avalanche.",
       "logo": "/img/hurricaneswap.png",
@@ -2482,7 +3004,12 @@
       "date": "2022-08-15",
       "highlight": "Charitable Giving Powered by Web3. IHELP is a decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide.",
       "logo": "/img/ihelp.png",
-      "tags": ["defi", "dapp", "yield farming", "multi-chain"],
+      "tags": [
+        "defi",
+        "dapp",
+        "yield farming",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://app.ihelp.finance",
       "twitter": "https://twitter.com/ihelp_defi",
@@ -2496,7 +3023,10 @@
     {
       "name": "ImmuneFi",
       "slug": "immunefi",
-      "tags": ["defi", "security"],
+      "tags": [
+        "defi",
+        "security"
+      ],
       "status": "",
       "highlight": "The leading bug bounty and security services platform for DeFi.",
       "logo": "/img/immunefi.svg",
@@ -2517,7 +3047,12 @@
       "date": "2021-10-03",
       "highlight": "AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. It revolutionizes blockchain games through high quality graphics and gameplay, well-thought-out tokenomics, team-to-earn guild mechanics and deep DeFi integration.",
       "logo": "/img/imperium-empires.svg",
-      "tags": ["avalanche native", "gaming", "nft", "play-to-earn"],
+      "tags": [
+        "avalanche native",
+        "gaming",
+        "nft",
+        "play-to-earn"
+      ],
       "status": "coming soon",
       "website": "https://imperiumempires.com/",
       "twitter": "https://twitter.com/avalancheavax",
@@ -2532,7 +3067,9 @@
     {
       "name": "Injective Protocol",
       "slug": "injective-protocol",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "Exchange protocol that improves decentralized derivatives and borderless DeFi.",
       "logo": "/img/injective-protocol.svg",
@@ -2550,7 +3087,9 @@
     {
       "name": "InsurAce",
       "slug": "insurace",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized Multi-chain insurance platform to protect users' funds against various risks.",
       "logo": "/img/insurace.svg",
@@ -2571,7 +3110,12 @@
       "date": "2018-12-15",
       "highlight": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
       "logo": "/img/logo-grey-circle-80.png",
-      "tags": ["dao", "defi", "ecosystem", "infrastructure"],
+      "tags": [
+        "dao",
+        "defi",
+        "ecosystem",
+        "infrastructure"
+      ],
       "status": "live",
       "website": "https://insuretoken.net",
       "twitter": "https://twitter.com/InsureToken",
@@ -2588,7 +3132,12 @@
       "date": "2022-08-26",
       "highlight": "On-chain marketing platform for you to analyze and grow your users.",
       "logo": "/img/intract.png",
-      "tags": ["api", "dashboard", "sdk", "tools"],
+      "tags": [
+        "api",
+        "dashboard",
+        "sdk",
+        "tools"
+      ],
       "status": "live",
       "website": "https://www.intract.buzz/",
       "twitter": "https://twitter.com/intractbuzz",
@@ -2600,17 +3149,24 @@
       "date": "2022-05-04",
       "highlight": "Premium NFT Marketplace",
       "logo": "/img/joepegs.jpg",
-      "tags": ["Art", "Culture", "NFT", "Marketplace"],
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
       "status": "live",
       "website": "https://joepegs.com/",
       "twitter": "https://twitter.com/joepegsnft",
-      "summary": "Joepegs is Trader Joe'92s premium NFT marketplace and launchpad, facilitating the growth of quality projects on Avalanche. Explore Avalanche NFTs, support new artists and trade classic collections on Joepegs, the cultural hub for quality digital assets and web 3 experiences.",
+      "summary": "Joepegs is Trader Joe's premium NFT marketplace and launchpad, facilitating the growth of quality projects on Avalanche. Explore Avalanche NFTs, support new artists and trade classic collections on Joepegs, the cultural hub for quality digital assets and web 3 experiences.",
       "discord": "https://discord.gg/traderjoe"
     },
     {
       "name": "JulWallet",
       "slug": "julwallet",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A streamlined, browser-based wallet for decentralized finance.",
       "logo": "/img/julwallet.svg",
@@ -2628,7 +3184,9 @@
     {
       "name": "Kalao",
       "slug": "kalao",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "The ultimate next generation NFTs marketplace.",
       "logo": "/img/kalao.svg",
@@ -2646,7 +3204,10 @@
     {
       "name": "Kingdom Quest",
       "slug": "kingdomquest",
-      "tags": ["gaming", "mmorpg"],
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "Building metaverse with 4 games using 1 token and NFT system",
       "logo": "/img/kingdomquest.webp",
@@ -2664,7 +3225,9 @@
     {
       "name": "Knit Finance",
       "slug": "knit-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized protocol for creating cross-chain wrappers for the top-200 assets.",
       "logo": "/img/knit-finance.svg",
@@ -2685,7 +3248,12 @@
       "date": "2021-04-01",
       "highlight": "Krystal is a multi-chain platform to easily access popular DeFi services and manage your assets including NFTs",
       "logo": "krystal.png",
-      "tags": ["swap", "defi", "wallet", "launchpads"],
+      "tags": [
+        "swap",
+        "defi",
+        "wallet",
+        "launchpads"
+      ],
       "status": "live",
       "website": "https://krystal.app/",
       "twitter": "https://twitter.com/KrystalDefi",
@@ -2700,7 +3268,10 @@
     {
       "name": "Kurtosis",
       "slug": "kurtosis",
-      "tags": ["security", "tools"],
+      "tags": [
+        "security",
+        "tools"
+      ],
       "status": "",
       "highlight": "A complete testing platform to accelerate development on Avalanche.",
       "logo": "/img/kurtosis.svg",
@@ -2718,7 +3289,9 @@
     {
       "name": "KUU",
       "slug": "kuu",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An on-chain liquidity underwriter.",
       "logo": "/img/kuu.svg",
@@ -2736,7 +3309,9 @@
     {
       "name": "Kyber",
       "slug": "kyber",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A DEX protocol that provides frictionless crypto liquidity with high flexibility and capital efficiency.",
       "logo": "/img/kyber.png",
@@ -2754,7 +3329,9 @@
     {
       "name": "KYVE",
       "slug": "kyve",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A decentralized archiving and caching solution.",
       "logo": "/img/kyve.jpeg",
@@ -2772,7 +3349,9 @@
     {
       "name": "LACChain",
       "slug": "lacchain",
-      "tags": ["ecosystem"],
+      "tags": [
+        "ecosystem"
+      ],
       "status": "",
       "highlight": "Accelerating the growth of the blockchain ecosystem in Latin America & the Caribbean.",
       "logo": "/img/lacchain.jpeg",
@@ -2790,7 +3369,9 @@
     {
       "name": "Ledger",
       "slug": "ledger",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A leader in security and infrastructure solutions.",
       "logo": "/img/ledger.svg",
@@ -2811,7 +3392,11 @@
       "date": "2021-03-01",
       "highlight": "LetsExchange is a one-stop multicurrency exchange service free of registration, limits, and complications.",
       "logo": "/img/lets-exchange.png",
-      "tags": ["exchange", "trading", "multi-chain"],
+      "tags": [
+        "exchange",
+        "trading",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://letsexchange.io/",
       "twitter": "https://twitter.com/letsexchange_io",
@@ -2848,7 +3433,12 @@
       "date": "2022-09-07",
       "highlight": "AVAX native, silver and gold currencies, wallet and payment ecosystem. Elevate your finances with silver and gold.",
       "logo": "/img/lodeproject.png",
-      "tags": ["Stablecoin", "Wallet", "Defi", "Avalanche Native"],
+      "tags": [
+        "Stablecoin",
+        "Wallet",
+        "Defi",
+        "Avalanche Native"
+      ],
       "status": "live",
       "website": "https://lode.one/",
       "twitter": "https://twitter.com/LODE_one",
@@ -2866,7 +3456,12 @@
       "date": "2022-03-31",
       "highlight": "Lootex is a multi-chain game asset marketplace for the Metaverse. There are 500+ games listed on Lootex. players can easily browse and trade the most popular game assets.",
       "logo": "/img/lootex-logo.svg",
-      "tags": ["inrastructure", "launchpads", "nft", "marketplace"],
+      "tags": [
+        "inrastructure",
+        "launchpads",
+        "nft",
+        "marketplace"
+      ],
       "status": "live",
       "website": "https://lootex.io/",
       "twitter": "https://twitter.com/lootexio",
@@ -2881,7 +3476,10 @@
     {
       "name": "Lost Worlds",
       "slug": "lostworlds",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "In development",
       "highlight": "Location Based NFT Platform. Mint NFTs From Real World Locations ",
       "logo": "/img/lostworlds.png",
@@ -2899,7 +3497,9 @@
     {
       "name": "Lydia Finance",
       "slug": "lydia-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An automated market maker, yield farming, staking and launchpad platform.",
       "logo": "/img/lydia-finance.svg",
@@ -2917,7 +3517,9 @@
     {
       "name": "Magic",
       "slug": "magic",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A passwordless login and key management system.",
       "logo": "/img/magic.svg",
@@ -2935,7 +3537,9 @@
     {
       "name": "Marginswap",
       "slug": "marginswap",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Protocol that natively supports spot and cross margin swapping of assets on AMMs.",
       "logo": "/img/marginswap.svg",
@@ -2953,7 +3557,9 @@
     {
       "name": "Markr",
       "slug": "markr",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Portfolio management and tracker tool for #dApp users.",
       "logo": "/img/markr.jpeg",
@@ -2971,7 +3577,9 @@
     {
       "name": "Mastercard",
       "slug": "mastercard",
-      "tags": ["enterprise"],
+      "tags": [
+        "enterprise"
+      ],
       "status": "live",
       "highlight": "Connect your crypto start-up to our ecosystem of banks, merchants, partners and digital players across the globe.",
       "logo": "/img/mastercard.jpeg",
@@ -2989,7 +3597,9 @@
     {
       "name": "Math Wallet",
       "slug": "math-wallet",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A multi-platform universal crypto wallet.",
       "logo": "/img/math-wallet.png",
@@ -3007,7 +3617,9 @@
     {
       "name": "Maximizer",
       "slug": "maximizer",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "live",
       "highlight": "Financial tools for true sustainability - Stake and Grow with Avalanche",
       "logo": "/img/maximizer.png",
@@ -3025,7 +3637,10 @@
     {
       "name": "Metaderby",
       "slug": "metaderby",
-      "tags": ["gaming", "racing"],
+      "tags": [
+        "gaming",
+        "racing"
+      ],
       "status": "Live",
       "highlight": "MetaDerby is the first free-to-play-and-earn horse racing metaverse where anyone can earn tokens through skilled gameplay and contribute to building the MetaDerby universe.",
       "logo": "/img/metaderby.png",
@@ -3043,7 +3658,9 @@
     {
       "name": "Metamask",
       "slug": "metamask",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A crypto wallet & gateway to blockchain apps.",
       "logo": "/img/metamask.svg",
@@ -3064,7 +3681,12 @@
       "date": "2022-01-18",
       "highlight": "Easy entry into vaults from multiple platforms in one dapp with no need to convert. Stop loss and take profit for staking, lending and farming.",
       "logo": "/img/minimax-finance.svg",
-      "tags": ["defi", "yield farming", "multi-chain", "portfolio"],
+      "tags": [
+        "defi",
+        "yield farming",
+        "multi-chain",
+        "portfolio"
+      ],
       "status": "live",
       "website": "http://minimax.finance/",
       "twitter": "https://twitter.com/MinimaxFinance",
@@ -3077,7 +3699,9 @@
     {
       "name": "Money Dance",
       "slug": "money-dance",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "status": "",
       "highlight": "A Virtual Hackathon, Summit and Demo Day.",
       "logo": "/img/money-dance.svg",
@@ -3095,7 +3719,9 @@
     {
       "name": "Moralis",
       "slug": "moralis",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A premier blockchain middleware service.",
       "logo": "/img/moralis.svg",
@@ -3111,12 +3737,37 @@
       "token": ""
     },
     {
+      "name": "More Money",
+      "slug": "more-money",
+      "tags": [
+        "lending",
+        "defi",
+        "stablecoin"
+      ],
+      "status": "Live",
+      "highlight": "Leverage yield-bearing assets to borrow native MONEY stablecoin.",
+      "logo": "/img/more-money.svg",
+      "website": "https://moremoney.finance/",
+      "twitter": "https://twitter.com/Moremoneyfi",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "MONEY"
+    },
+    {
       "name": "Mt Pelerin",
       "slug": "mtpelerin",
       "date": "2018-09-27",
       "highlight": "Your crypto-fiat gateway for Avalanche",
       "logo": "/img/mtpelerin.svg",
-      "tags": ["fiat-ramp", "exchange"],
+      "tags": [
+        "fiat-ramp",
+        "exchange"
+      ],
       "status": "live",
       "website": "https://www.mtpelerin.com/",
       "twitter": "https://twitter.com/mtpelerin",
@@ -3130,7 +3781,9 @@
     {
       "name": "MyCointainer",
       "slug": "mycointainer",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An online automatic staking and masternode staking platform.",
       "logo": "/img/mycointainer.svg",
@@ -3148,7 +3801,9 @@
     {
       "name": "Nansen",
       "slug": "nansen",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A crypto analytics platform that enriches on-chain data with millions of wallets labels.",
       "logo": "/img/nansen.png",
@@ -3166,7 +3821,9 @@
     {
       "name": "Nash",
       "slug": "nash",
-      "tags": ["wallet"],
+      "tags": [
+        "wallet"
+      ],
       "status": "",
       "highlight": "A fast, user-friendly platform for decentralized financial services.",
       "logo": "/img/nash.svg",
@@ -3187,7 +3844,12 @@
       "date": "2022-02-23",
       "highlight": "DeFi protocol that provides lending, savings, and payment solutions",
       "logo": "/img/Nereus_logo.svg",
-      "tags": ["defi", "lending", "NFT", "stablecoin"],
+      "tags": [
+        "defi",
+        "lending",
+        "NFT",
+        "stablecoin"
+      ],
       "status": "live",
       "website": "https://nereus.finance",
       "twitter": "https://twitter.com/nereusfinance",
@@ -3204,7 +3866,12 @@
       "date": "2021-09-01",
       "highlight": "The one-stop SocialFi app to build, manage, replicate and monetize portfolios.",
       "logo": "/img/nested.svg",
-      "tags": ["defi", "nft", "multi-chain", "portfolio"],
+      "tags": [
+        "defi",
+        "nft",
+        "multi-chain",
+        "portfolio"
+      ],
       "status": "live",
       "website": "https://nested.fi/",
       "twitter": "https://twitter.com/NestedFi",
@@ -3219,7 +3886,9 @@
     {
       "name": "Nexo",
       "slug": "nexo",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "The world's leading regulated digital assets institution",
       "logo": "/img/nexo.svg",
@@ -3237,7 +3906,9 @@
     {
       "name": "NFT Stars",
       "slug": "nft-stars",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A new multi-chain NFT marketplace.",
       "logo": "/img/nft-stars.svg",
@@ -3255,7 +3926,9 @@
     {
       "name": "NFTrade",
       "slug": "nftrade",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A cross-chain and blockchain-agnostic NFT platform. An aggregator of all NFT marketplaces.",
       "logo": "/img/nftrade.jpeg",
@@ -3273,7 +3946,9 @@
     {
       "name": "Niftyx Protocol",
       "slug": "niftyx-protocol",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A community-driven decentralised protocol for trading and minting NFT assets.",
       "logo": "/img/niftyx-protocol.svg",
@@ -3291,7 +3966,10 @@
     {
       "name": "OIN",
       "slug": "oin",
-      "tags": ["stablecoin", "defi"],
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
       "status": "",
       "highlight": "A stablecoin and staking derivatives issuance platform.",
       "logo": "/img/oin.svg",
@@ -3309,7 +3987,9 @@
     {
       "name": "Okcoin",
       "slug": "okcoin",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A cryptocurrency exchange for users to transfer between crypto and fiat currencies.",
       "logo": "/img/okcoin.svg",
@@ -3327,7 +4007,9 @@
     {
       "name": "OKEx",
       "slug": "okex",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A fully customizable cryptocurrency exchange for traders at every level.",
       "logo": "/img/okex.svg",
@@ -3348,7 +4030,11 @@
       "date": "2022-07-29",
       "highlight": "OKLink Avalanche Explorer, allowing users to search transactions, blocks, wallet addresses, smart contracts, and other on-chain data on Avalanche chain.",
       "logo": "/img/oklink.png",
-      "tags": ["infrastructure", "explorer", "multi-chain"],
+      "tags": [
+        "infrastructure",
+        "explorer",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://www.oklink.com/en/avax/",
       "twitter": "https://twitter.com/OKLink",
@@ -3359,7 +4045,9 @@
     {
       "name": "Onomy",
       "slug": "onomy",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A protocol that mints, trades, and lends stablecoin representations of national currencies.",
       "logo": "/img/onomy.svg",
@@ -3377,7 +4065,11 @@
     {
       "name": "Openblox",
       "slug": "openblox",
-      "tags": ["gaming", "fitfi", "casual"],
+      "tags": [
+        "gaming",
+        "fitfi",
+        "casual"
+      ],
       "status": "",
       "highlight": "Openblox is a world where you can start your jouirney with your Blox to hunt, clollect, breed, battle, and xplore this magical land",
       "logo": "/img/openblox.svg",
@@ -3398,7 +4090,12 @@
       "date": "2021-07-29",
       "highlight": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Avalanche to offer users the best swap rates.",
       "logo": "/img/OpenOcean.png",
-      "tags": ["defi", "dex", "multi-chain", "swap"],
+      "tags": [
+        "defi",
+        "dex",
+        "multi-chain",
+        "swap"
+      ],
       "status": "live",
       "website": "https://openocean.finance/",
       "twitter": " https://twitter.com/OpenOceanGlobal",
@@ -3411,9 +4108,56 @@
       "cmc": "https://coinmarketcap.com/currencies/openocean/"
     },
     {
+      "name": "Opensea",
+      "slug": "opensea",
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
+      "status": "Live",
+      "highlight": "A multi-chain NFT marketplace.",
+      "logo": "/img/opensea.svg",
+      "website": "https://opensea.io/",
+      "twitter": "https://twitter.com/opensea",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "OpenZeppelin",
+      "slug": "openzeppelin",
+      "tags": [
+        "infrastructure",
+        "sdk",
+        "security"
+      ],
+      "status": "Live",
+      "highlight": "Smart Contracts / Web3 Code Library.",
+      "logo": "/img/openzeppelin.svg",
+      "website": "https://www.openzeppelin.com/",
+      "twitter": "https://twitter.com/OpenZeppelin",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Orion Protocol",
       "slug": "orion-protocol",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A non-custodial gateway to the entire digital asset market.",
       "logo": "/img/orion-protocol.svg",
@@ -3431,7 +4175,10 @@
     {
       "name": "P2E Analytics",
       "slug": "p2eanalytics",
-      "tags": ["gaming", "guild"],
+      "tags": [
+        "gaming",
+        "guild"
+      ],
       "status": "",
       "highlight": "p2eanalytics.com is your GameFi Hub. Tools to help you analyze and discover new games.",
       "logo": "/img/p2eanalytics.png",
@@ -3449,7 +4196,10 @@
     {
       "name": "Pangolin",
       "slug": "pangolin",
-      "tags": ["exchange", "defi"],
+      "tags": [
+        "exchange",
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized exchange that supports all Avalanche and Ethereum tokens.",
       "logo": "/img/pangolin.jpg",
@@ -3467,7 +4217,10 @@
     {
       "name": "Paradise Tycoon",
       "slug": "paradisetycoon",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "In development ",
       "highlight": "Create your personal paradise island in a free P2E metaverse game",
       "logo": "/img/paradisetycoon.png",
@@ -3485,7 +4238,9 @@
     {
       "name": "ParaSwap",
       "slug": "paraswap",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Aggregating decentralized exchanges in one comprehensive interface.",
       "logo": "/img/paraswap.png",
@@ -3503,7 +4258,9 @@
     {
       "name": "Paribu",
       "slug": "paribu",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A centralized exchange based in Turkey.",
       "logo": "/img/paribu.jpeg",
@@ -3524,7 +4281,12 @@
       "date": "2021-05-01",
       "highlight": "Track all your DeFi tokens from the moment they launch",
       "logo": "/img/peachfolio.png",
-      "tags": ["defi", "wealth management", "utility", "portfolio"],
+      "tags": [
+        "defi",
+        "wealth management",
+        "utility",
+        "portfolio"
+      ],
       "status": "live",
       "website": "https://www.peachfolio.app/",
       "twitter": "https://twitter.com/peachfolio",
@@ -3539,7 +4301,9 @@
     {
       "name": "Pendle",
       "slug": "pendle",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "The protocol to trade DeFi yield.",
       "logo": "/img/pendle.png",
@@ -3557,7 +4321,9 @@
     {
       "name": "Penguin Finance",
       "slug": "penguin-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A protocol bringing yield-farming, staking and more functionalities to the Avalanche platform.",
       "logo": "/img/penguin-finance.png",
@@ -3575,7 +4341,10 @@
     {
       "name": "Pizza Game",
       "slug": "pizzagame",
-      "tags": ["gaming", "idle"],
+      "tags": [
+        "gaming",
+        "idle"
+      ],
       "status": "Live",
       "highlight": "Inspired by Cookie Clicker - we are bringing your favorite childhood game to Avalanche",
       "logo": "/img/pizzagame.jpg",
@@ -3593,7 +4362,12 @@
     {
       "name": "Platypus Finance",
       "slug": "platypus-finance",
-      "tags": ["defi", "exchange", "avalanche native", "dex"],
+      "tags": [
+        "defi",
+        "exchange",
+        "avalanche native",
+        "dex"
+      ],
       "status": "live",
       "highlight": "Platypus finance is a novel open-liquidity stableswap protocol native on Avalanche.",
       "logo": "/img/platypus-finance.png",
@@ -3611,7 +4385,10 @@
     {
       "name": "Pokket",
       "slug": "pokket",
-      "tags": ["Portfolio", "Wealth Management"],
+      "tags": [
+        "Portfolio",
+        "Wealth Management"
+      ],
       "status": "live",
       "highlight": "A financial platform provides fixed deposits for AVAX HODL.",
       "logo": "/img/pokket.svg",
@@ -3629,7 +4406,9 @@
     {
       "name": "Polyient Games",
       "slug": "polyient-games",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A NFT-focused decentralized exchange.",
       "logo": "/img/polyient-games.svg",
@@ -3648,7 +4427,12 @@
       "name": "PoolTogether",
       "slug": "pooltogether",
       "date": "2021-12-21",
-      "tags": ["defi", "dao", "dapp", "infrastructure"],
+      "tags": [
+        "defi",
+        "dao",
+        "dapp",
+        "infrastructure"
+      ],
       "status": "live",
       "highlight": "PoolTogether is an open source and decentralized protocol for Prize-Linked Savings. Save, pool funds, & win prizes together!",
       "logo": "/img/pooltogether.png",
@@ -3665,7 +4449,9 @@
     {
       "name": "Poolz",
       "slug": "poolz",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A decentralized cross-chain IDO platform.",
       "logo": "/img/poolz.png",
@@ -3683,7 +4469,10 @@
     {
       "name": "Proof of Learning (PoL)",
       "slug": "proof-of-learning",
-      "tags": ["ecosystem", "tools"],
+      "tags": [
+        "ecosystem",
+        "tools"
+      ],
       "status": "",
       "highlight": "An education curriculum on Japan’s most popular learning platform.",
       "logo": "/img/proof-of-learning.svg",
@@ -3701,7 +4490,9 @@
     {
       "name": "Prosper",
       "slug": "prosper",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A non-custodial crosschain prediction market and hedging platform.",
       "logo": "/img/prosper.svg",
@@ -3719,7 +4510,10 @@
     {
       "name": "Protocoh",
       "slug": "protocoh",
-      "tags": ["tools", "infrastructure"],
+      "tags": [
+        "tools",
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A team passionate about bringing the world closer with technology and infrastructure.",
       "logo": "/img/protocoh.svg",
@@ -3737,7 +4531,11 @@
     {
       "name": "Pulsar",
       "slug": "pulsar",
-      "tags": ["gaming", "rts", "mmorpg"],
+      "tags": [
+        "gaming",
+        "rts",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "SciFi MMO RTS that allows you to travel the universe and conquer terrifying worlds.",
       "logo": "/img/pulsar.jpg",
@@ -3755,7 +4553,9 @@
     {
       "name": "Quadency",
       "slug": "quadency",
-      "tags": ["portfolio"],
+      "tags": [
+        "portfolio"
+      ],
       "status": "",
       "highlight": "A multi-exchange trading and automation platform.",
       "logo": "/img/quadency.svg",
@@ -3773,7 +4573,9 @@
     {
       "name": "Quantstamp",
       "slug": "quantstamp",
-      "tags": ["security"],
+      "tags": [
+        "security"
+      ],
       "status": "",
       "highlight": "A blockchain security firm that conducts audits in order to enhance the security of your dApp.",
       "logo": "/img/quantstamp.svg",
@@ -3794,7 +4596,11 @@
       "date": "2022-08-24",
       "highlight": "The game-changing wallet for Ethereum and all EVM chains",
       "logo": "/img/rabby.png",
-      "tags": ["wallet", "nft", "defi"],
+      "tags": [
+        "wallet",
+        "nft",
+        "defi"
+      ],
       "status": "live",
       "website": "https://rabby.io/",
       "twitter": "https://twitter.com/Rabby_io",
@@ -3809,7 +4615,10 @@
     {
       "name": "RaceX",
       "slug": "racex",
-      "tags": ["gaming", "racing"],
+      "tags": [
+        "gaming",
+        "racing"
+      ],
       "status": "In development",
       "highlight": "The first Race-2-Earn gaming platform on Avalanche utilizing NFT racecars.",
       "logo": "/img/racex.png",
@@ -3830,7 +4639,12 @@
       "date": "2022-10-31",
       "highlight": "First MultiChain Bridge and Dex Aggregator Supporting 10,000 Tokens across +40 Chains",
       "logo": "/img/rango.png",
-      "tags": ["multi-chain", "dex", "bridge", "dapp"],
+      "tags": [
+        "multi-chain",
+        "dex",
+        "bridge",
+        "dapp"
+      ],
       "status": "live",
       "website": "https://app.rango.exchange",
       "twitter": "https://twitter.com/RangoExchange",
@@ -3843,9 +4657,32 @@
       "cmc": ""
     },
     {
+      "name": "Re",
+      "slug": "re",
+      "tags": [
+        "defi",
+        "marketplace"
+      ],
+      "status": "Testnet",
+      "highlight": "Decentralized reinsurance marketplace.",
+      "logo": "/img/re.svg",
+      "website": "https://re.xyz/",
+      "twitter": "https://twitter.com/REprotocol",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Reef",
       "slug": "reef",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A cross-chain DeFi operating system with a smart liquidity aggregator which enables traders.",
       "logo": "/img/reef.svg",
@@ -3861,9 +4698,33 @@
       "token": ""
     },
     {
+      "name": "Remix",
+      "slug": "remix",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Learn Ethereum Smart Contracts.",
+      "logo": "/img/remix.svg",
+      "website": "https://remix-project.org/",
+      "twitter": "https://twitter.com/EthereumRemix",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Ren",
       "slug": "ren",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An‌ ‌open‌ ‌protocol‌ ‌that‌ ‌enables‌ ‌the‌ ‌movement‌ ‌of‌ ‌value‌ ‌between‌ ‌blockchains.‌ ‌",
       "logo": "/img/ren.svg",
@@ -3879,12 +4740,38 @@
       "token": ""
     },
     {
+      "name": "RoboVault",
+      "slug": "robovault",
+      "tags": [
+        "defi",
+        "yield farming"
+      ],
+      "status": "Live",
+      "highlight": "Delta-neutral yield farming strategies.",
+      "logo": "/img/robovault.svg",
+      "website": "https://www.robo-vault.com/",
+      "twitter": "https://twitter.com/robo_vault",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "RocketX",
       "slug": "rocketx",
       "date": "2021-04-13",
       "highlight": "RocketX is on a mission to enhance interoperability between blockchains. We enable CROSS-CHAIN SWAP and BRIDGE of native assets across leading networks via single intuitive UI. RocketX simplifies access to AVAX network and thereby drives the mass adoption of the network.",
       "logo": "/img/rocketx.png",
-      "tags": ["bridge", "dex", "defi", "multi-chain"],
+      "tags": [
+        "bridge",
+        "dex",
+        "defi",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://rocketx.exchange",
       "twitter": "https://twitter.com/RocketXexchange",
@@ -3902,7 +4789,14 @@
       "date": "2022-02-16",
       "highlight": "ROCO is a decentralized GAMEFI platform which provide blockchain services to game developers, content creators and player communities through the blockchain network",
       "logo": "/img/roco.png",
-      "tags": ["gaming", "defi", "play-to-earn", "dapp", "nft", "launchpads"],
+      "tags": [
+        "gaming",
+        "defi",
+        "play-to-earn",
+        "dapp",
+        "nft",
+        "launchpads"
+      ],
       "status": "live",
       "website": "https://roco.finance",
       "twitter": "https://twitter.com/rocofinance",
@@ -3917,7 +4811,9 @@
     {
       "name": "Rome Terminal",
       "slug": "rome-terminal",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A multi-network, multi-dApp trading terminal.",
       "logo": "/img/rome-terminal.jpeg",
@@ -3935,7 +4831,9 @@
     {
       "name": "Router Protocol",
       "slug": "router-protocol",
-      "tags": ["bridge"],
+      "tags": [
+        "bridge"
+      ],
       "status": "",
       "highlight": "Enables the bridging infrastructure for contract level data flow across various blockchains.",
       "logo": "/img/router-protocol.svg",
@@ -3951,9 +4849,35 @@
       "token": ""
     },
     {
+      "name": "Runblox",
+      "slug": "runblox",
+      "tags": [
+        "play-to-earn",
+        "avalanche native"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/runblox.svg",
+      "website": "https://runblox.io/",
+      "twitter": "https://twitter.com/RunBlox_io",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "RunOnFlux",
       "slug": "flux-cloud",
-      "tags": ["infrastructure", "multi-chain", "utility", "nodes"],
+      "tags": [
+        "infrastructure",
+        "multi-chain",
+        "utility",
+        "nodes"
+      ],
       "status": "live",
       "highlight": "Flux is the new generation of decentralized cloud infrastructure. By, and For the People.",
       "logo": "/img/runonflux.png",
@@ -3999,7 +4923,12 @@
       "date": "2022-12-16",
       "highlight": "Secure3 provides trustworthy security services for projects, competitive incentive model for auditors and white hats, and verifiable security track record for the community",
       "logo": "/img/secure3.svg",
-      "tags": ["security", "ecosystem", "infrastructure", "tools"],
+      "tags": [
+        "security",
+        "ecosystem",
+        "infrastructure",
+        "tools"
+      ],
       "status": "live",
       "website": "https://www.Secure3.io",
       "twitter": "https://twitter.com/secure3io",
@@ -4010,7 +4939,10 @@
     {
       "name": "Securitize",
       "slug": "securitize",
-      "tags": ["digital securities", "enterprise"],
+      "tags": [
+        "digital securities",
+        "enterprise"
+      ],
       "status": "",
       "highlight": "Issuance and compliance platform for digital securities and SEC-registered transfer agents.",
       "logo": "/img/securitize.svg",
@@ -4028,7 +4960,9 @@
     {
       "name": "Set Protocol",
       "slug": "set-protocol",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An asset management protocol powering the world's best on-chain index products.",
       "logo": "/img/set-protocol.svg",
@@ -4046,7 +4980,9 @@
     {
       "name": "Shopping.io",
       "slug": "shopping-io",
-      "tags": ["payments"],
+      "tags": [
+        "payments"
+      ],
       "status": "",
       "highlight": "A crypto e-commerce platform.",
       "logo": "/img/shopping-io.jpeg",
@@ -4064,7 +5000,10 @@
     {
       "name": "Shrapnel",
       "slug": "shrapnel",
-      "tags": ["gaming", "fps"],
+      "tags": [
+        "gaming",
+        "fps"
+      ],
       "status": "In development",
       "highlight": " AAA Extraction FPS powered by next-gen community-driven tools, built on the blockchain to offer true ownership.",
       "logo": "/img/shrapnel.jpg",
@@ -4082,7 +5021,9 @@
     {
       "name": "SIMBA Chain",
       "slug": "simba-chain",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A fault tolerant, secure environment focused on scalable production applications.",
       "logo": "/img/simba-chain.svg",
@@ -4100,7 +5041,9 @@
     {
       "name": "Simplex",
       "slug": "simplex",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "Enabling users to access cryptocurrencies and digital assets with fiat currencies.",
       "logo": "/img/simplex.svg",
@@ -4118,7 +5061,10 @@
     {
       "name": "Sky Meta",
       "slug": "skymeta",
-      "tags": ["gaming", "guild"],
+      "tags": [
+        "gaming",
+        "guild"
+      ],
       "status": "Live",
       "highlight": "Utilize our platform to research opportunities, build up your GameFi portfolio, and start earning. Our goal is to help make GameFi accessible for everyone.",
       "logo": "/img/skymeta.png",
@@ -4136,7 +5082,10 @@
     {
       "name": "Smashverse",
       "slug": "smashverse",
-      "tags": ["gaming", "mmorpg"],
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
       "status": "In development",
       "highlight": "Next generation brawl game. Battle. Smash. Earn. ",
       "logo": "/img/smashverse.png",
@@ -4157,7 +5106,11 @@
       "date": "2022-02-04",
       "highlight": "Snail Trail Racing Game. New play-to-earn snail racing & breeding game on Avalanche",
       "logo": "/img/snailtrail.svg",
-      "tags": ["culture", "gaming", "play-to-earn"],
+      "tags": [
+        "culture",
+        "gaming",
+        "play-to-earn"
+      ],
       "status": "live",
       "website": "https://www.snailtrail.art/",
       "twitter": "https://twitter.com/SnailTrailGame",
@@ -4172,7 +5125,10 @@
     {
       "name": "Snake City",
       "slug": "snakecity",
-      "tags": ["gaming", "idle"],
+      "tags": [
+        "gaming",
+        "idle"
+      ],
       "status": "In development",
       "highlight": "P2E NFT game inspired by the famous Slither.io ",
       "logo": "/img/snakecity.jpg",
@@ -4190,7 +5146,9 @@
     {
       "name": "Snowball",
       "slug": "snowball",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Combines multiple DeFi protocols to build interconnectedness, swap stablecoins and deposit liquidity.",
       "logo": "/img/snowball.svg",
@@ -4211,7 +5169,11 @@
       "date": "2022-08-15",
       "highlight": "A suite of tools for DAO creation funding, and organizational management.",
       "logo": "/img/SnowCone.png",
-      "tags": ["dao", "defi", "dapp"],
+      "tags": [
+        "dao",
+        "defi",
+        "dapp"
+      ],
       "status": "comming soon",
       "website": "https://www.snowcones.io",
       "twitter": "https://twitter.com/SnowConeDAO",
@@ -4229,7 +5191,11 @@
       "date": "2021-07-29",
       "highlight": "Your One-Stop Shop for Smart Contract Security",
       "logo": "/img/solidityscan.svg",
-      "tags": ["security", "tools", "infrastructure"],
+      "tags": [
+        "security",
+        "tools",
+        "infrastructure"
+      ],
       "status": "live",
       "website": "https://solidityscan.com/",
       "twitter": "https://twitter.com/solidityscan",
@@ -4244,7 +5210,9 @@
     {
       "name": "StackOS",
       "slug": "stackos",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A decentralized cloud for deploying full-stack applications, blockchain privatenets and mainnet nodes.",
       "logo": "/img/stackos.png",
@@ -4262,7 +5230,11 @@
     {
       "name": "Steadefi",
       "slug": "steadefi",
-      "tags": ["defi", "lending", "yield farming"],
+      "tags": [
+        "defi",
+        "lending",
+        "yield farming"
+      ],
       "status": "coming soon",
       "highlight": "DeFi protocol combining leverage and risk management strategies to earn yield from yield farming, liquid staking, leverage fees and volatility premiums.",
       "logo": "/img/steadefi.png",
@@ -4278,9 +5250,32 @@
       "token": ""
     },
     {
+      "name": "StructFi",
+      "slug": "structfi",
+      "tags": [
+        "defi"
+      ],
+      "status": "Testnet",
+      "highlight": "Leading options protocol that gives users access to European options, options combos and exotic options. ",
+      "logo": "/img/structfi.svg",
+      "website": "https://www.struct.fi/",
+      "twitter": "https://twitter.com/StructFinance",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Sushiswap",
       "slug": "sushiswap",
-      "tags": ["exchange", "defi"],
+      "tags": [
+        "exchange",
+        "defi"
+      ],
       "status": "",
       "highlight": "A comprehensive, decentralized trading platform for the future of finance.",
       "logo": "/img/sushiswap.svg",
@@ -4298,7 +5293,11 @@
     {
       "name": "Swimmer Network Subnet",
       "slug": "swimmersubnet",
-      "tags": ["subnet", "gaming", "nft"],
+      "tags": [
+        "subnet",
+        "gaming",
+        "nft"
+      ],
       "status": "live",
       "highlight": "An Avalanche Subnet: Home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
       "logo": "/img/swimmersubnet.png",
@@ -4319,7 +5318,12 @@
       "date": "2021-10-1",
       "highlight": "Synapse Protocol is a cross-chain communications network used to seamlessly interconnect all blockchains.",
       "logo": "img/synapse.png",
-      "tags": ["swap", "bridge", "multi-chain", "amm"],
+      "tags": [
+        "swap",
+        "bridge",
+        "multi-chain",
+        "amm"
+      ],
       "status": "live",
       "website": "https://synapseprotocol.com",
       "twitter": "https://twitter.com/SynapseProtocol",
@@ -4337,7 +5341,10 @@
       "date": "2022-02-04",
       "highlight": "TaleCraft is a PVP, play-to-earn card board game, driven by a unique mint and craft mechanic.",
       "logo": "/img/talecraft.png",
-      "tags": ["culture", "gaming"],
+      "tags": [
+        "culture",
+        "gaming"
+      ],
       "status": "live",
       "website": "https://talecraft.io",
       "twitter": "https://twitter.com/talecraftio",
@@ -4352,7 +5359,9 @@
     {
       "name": "Tenderly",
       "slug": "tenderly",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "A developer platform for teams and companies building innovative blockchain products.",
       "logo": "/img/tenderly.jpeg",
@@ -4370,7 +5379,10 @@
     {
       "name": "Tether",
       "slug": "tether",
-      "tags": ["stablecoin", "defi"],
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
       "status": "",
       "highlight": "A global, fast and secure stablecoin.",
       "logo": "/img/tether.svg",
@@ -4388,7 +5400,9 @@
     {
       "name": "The Club Deportivo Guadalajara (\"Chivas\")",
       "slug": "the-club-deportivo-guadalajara",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "Mexico’s most popular soccer club.",
       "logo": "/img/the-club-deportivo-guadalajara.svg",
@@ -4406,7 +5420,9 @@
     {
       "name": "The Graph",
       "slug": "the-graph",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "The indexing and query layer of the decentralized web.",
       "logo": "/img/the-graph.svg",
@@ -4424,7 +5440,10 @@
     {
       "name": "Time Shuffle",
       "slug": "timeshuffle",
-      "tags": ["gaming", "rts"],
+      "tags": [
+        "gaming",
+        "rts"
+      ],
       "status": "In development",
       "highlight": "Play-and-Earn NFT based battle-arena, set in time-traveling universe",
       "logo": "/img/timeshuffle.png",
@@ -4442,7 +5461,9 @@
     {
       "name": "Tin Network",
       "slug": "tin-network",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "A simple dashboard for DeFi.",
       "logo": "/img/tin-network.png",
@@ -4460,7 +5481,10 @@
     {
       "name": "Tiny Bones",
       "slug": "tinybones",
-      "tags": ["gaming", "casual"],
+      "tags": [
+        "gaming",
+        "casual"
+      ],
       "status": "In development",
       "highlight": "Open world for those with Tiny Bones NFTs to interact and socialize",
       "logo": "/img/tinybones.jpg",
@@ -4481,7 +5505,12 @@
       "date": "2022-02-28",
       "highlight": "Create, manage and distribute tokens effortlessly on Avalanche",
       "logo": "/img/token-tool.png",
-      "tags": ["tools", "digital securities", "launchpads", "multi-chain"],
+      "tags": [
+        "tools",
+        "digital securities",
+        "launchpads",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://tokentool.bitbond.com/",
       "twitter": "https://twitter.com/bitbond",
@@ -4492,7 +5521,9 @@
     {
       "name": "Topps NFTs",
       "slug": "topps-nfts",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A diversified NFT marketplace with a multi-platform product portfolio.",
       "logo": "/img/topps-nfts.svg",
@@ -4510,7 +5541,11 @@
     {
       "name": "Torus",
       "slug": "torus",
-      "tags": ["infrastructure", "security", "tools"],
+      "tags": [
+        "infrastructure",
+        "security",
+        "tools"
+      ],
       "status": "",
       "highlight": "SDK to combine passwordless authentication with private key management.",
       "logo": "/img/torus.svg",
@@ -4528,7 +5563,10 @@
     {
       "name": "Trader Joe",
       "slug": "trader-joe",
-      "tags": ["defi", "exchange"],
+      "tags": [
+        "defi",
+        "exchange"
+      ],
       "status": "",
       "highlight": "A one-stop decentralized trading platform on Avalanche.",
       "logo": "/img/trader-joe.png",
@@ -4549,7 +5587,11 @@
       "date": "2022-09-23",
       "highlight": "DeFi's most comprehensive portfolio analytics platform, deconstructing users’ positions to analyze risk, track historical wallet data, and calculate profit & loss. Support for Avalanche, BNB Chain, and Ethereum.",
       "logo": "/img/treehouse.svg",
-      "tags": ["defi", "dapp", "portfolio"],
+      "tags": [
+        "defi",
+        "dapp",
+        "portfolio"
+      ],
       "status": "live",
       "website": "https://harvest.treehouse.finance/connect",
       "twitter": "https://twitter.com/TreehouseFi",
@@ -4563,7 +5605,10 @@
     {
       "name": "TrueUSD",
       "slug": "trueusd",
-      "tags": ["stablecoin", "defi"],
+      "tags": [
+        "stablecoin",
+        "defi"
+      ],
       "status": "",
       "highlight": "A stablecoin that is 1:1 to the US dollar with live attestations and on-chain Proof of Reserves.",
       "logo": "/img/trueusd.svg",
@@ -4581,7 +5626,9 @@
     {
       "name": "TrustSwap",
       "slug": "trustswap",
-      "tags": ["tools"],
+      "tags": [
+        "tools"
+      ],
       "status": "",
       "highlight": "Professional support and guidance through the token launch process for top-tier projects.",
       "logo": "/img/trustswap.svg",
@@ -4599,7 +5646,9 @@
     {
       "name": "Unifty.io",
       "slug": "unifty-io",
-      "tags": ["nft"],
+      "tags": [
+        "nft"
+      ],
       "status": "",
       "highlight": "A decentralized multi-chain infrastructure platform focused on NFT’s.",
       "logo": "/img/unifty-io.svg",
@@ -4617,7 +5666,9 @@
     {
       "name": "Union",
       "slug": "union",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Merging bundled protection & a liquid secondary market with a multi-token model.",
       "logo": "/img/union.jpg",
@@ -4638,7 +5689,12 @@
       "date": "",
       "highlight": "Unmarshal is a Multi-chain Web 3.0 data network aiming to deliver granular, reliable & real-time data to dApps, DeFi protocols, NFTs, Metaverse and GameFi solutions.",
       "logo": "/img/unmarshal.svg",
-      "tags": ["multi-chain", "api", "infrastructure", "explorer"],
+      "tags": [
+        "multi-chain",
+        "api",
+        "infrastructure",
+        "explorer"
+      ],
       "status": "live",
       "website": "https://unmarshal.io/",
       "twitter": "https://twitter.com/unmarshal",
@@ -4656,7 +5712,11 @@
       "date": "",
       "highlight": "Uplift's IDO platform facilitates and fosters the growth of all projects in the Uplift ecosystem; connecting projects with stakeholders and connecting investors with best in class investment opportunities.",
       "logo": "/img/uplift.png",
-      "tags": ["dao", "launchpads", "multi-chain"],
+      "tags": [
+        "dao",
+        "launchpads",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://www.uplift.io/",
       "twitter": "https://twitter.com/UpliftDao",
@@ -4671,7 +5731,11 @@
     {
       "name": "VCRED",
       "slug": "VCRED",
-      "tags": ["defi", "amm", "dex"],
+      "tags": [
+        "defi",
+        "amm",
+        "dex"
+      ],
       "status": "",
       "highlight": "",
       "logo": "/img/VCRED_logo.png",
@@ -4692,7 +5756,10 @@
       "date": "2022-02-27",
       "highlight": "Vector Finance magnifies your DeFi yields for Platypus and Trader Joe",
       "logo": "/img/vectorfinance.jpeg",
-      "tags": ["defi", "yield farming"],
+      "tags": [
+        "defi",
+        "yield farming"
+      ],
       "status": "Live",
       "website": "https://vectorfinance.io/",
       "twitter": "https://twitter.com/vector_fi",
@@ -4706,7 +5773,11 @@
     {
       "name": "Velox",
       "slug": "velox",
-      "tags": ["tools", "defi", "bot-dapp"],
+      "tags": [
+        "tools",
+        "defi",
+        "bot-dapp"
+      ],
       "status": "",
       "highlight": "A fully scalable, automated trading assistant for ERC20 tokens.",
       "logo": "/img/velox.svg",
@@ -4724,7 +5795,9 @@
     {
       "name": "Venly",
       "slug": "venly",
-      "tags": ["infrastructure"],
+      "tags": [
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A provider of multi-blockchain wallet and NFT products.",
       "logo": "/img/venly.png",
@@ -4742,7 +5815,9 @@
     {
       "name": "Verso Finance",
       "slug": "verso-finance",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "Money flow between service providers, financial institutions and their customers.",
       "logo": "/img/verso-finance.png",
@@ -4758,12 +5833,38 @@
       "token": ""
     },
     {
+      "name": "Volare",
+      "slug": "volare",
+      "tags": [
+        "options",
+        "defi"
+      ],
+      "status": "Testnet",
+      "highlight": "Leading options protocol that gives users access to European options, options combos and exotic options. ",
+      "logo": "/img/volare.svg",
+      "website": "https://volare.finance/",
+      "twitter": "https://twitter.com/FinanceVolare",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Vottun",
       "slug": "vottun",
       "date": "2022-07-13",
       "highlight": "Multi-blockchain API platform, The Wordpress of Web3.",
       "logo": "/img/vottun.jpg",
-      "tags": ["api", "nft", "multi-chain", "tools"],
+      "tags": [
+        "api",
+        "nft",
+        "multi-chain",
+        "tools"
+      ],
       "status": "live",
       "website": "https://vottun.com/",
       "twitter": "https://twitter.com/vottun",
@@ -4778,7 +5879,9 @@
     {
       "name": "Voyager",
       "slug": "voyager",
-      "tags": ["exchange"],
+      "tags": [
+        "exchange"
+      ],
       "status": "",
       "highlight": "A crypto-asset broker providing retail and institutional investors with a turnkey solution to trade.",
       "logo": "/img/voyager.svg",
@@ -4796,7 +5899,10 @@
     {
       "name": "Vscout",
       "slug": "vscout",
-      "tags": ["explorer", "tools"],
+      "tags": [
+        "explorer",
+        "tools"
+      ],
       "status": "",
       "highlight": "A tool to explore Avalanche Network and to monitor individual node metrics.",
       "logo": "/img/vscout.svg",
@@ -4814,7 +5920,10 @@
     {
       "name": "Warbots",
       "slug": "warbots",
-      "tags": ["gaming", "rts"],
+      "tags": [
+        "gaming",
+        "rts"
+      ],
       "status": "",
       "highlight": "Rise of the Warbots is a PVP P2E NFT gaming experience built on Avalanche C-Chain",
       "logo": "/img/warbots.jpg",
@@ -4830,14 +5939,40 @@
       "token": "$MMAC $NMAC"
     },
     {
+      "name": "Web3js",
+      "slug": "web3js",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Javascript Library for the EVM ",
+      "logo": "/img/web3js.svg",
+      "website": "https://github.com/web3/web3.js",
+      "twitter": "",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Wirex App",
       "slug": "wirex-app",
       "date": "06-01-14",
       "highlight": "Buy, store, exchange and spend fiat and more than 37 cryptocurrencies anytime, anywhere, using the Wirex app.",
       "logo": "/img/wirex_app_logo.svg",
-      "tags": ["fiat ramp", "payments", "cex"],
+      "tags": [
+        "fiat ramp",
+        "payments",
+        "cex"
+      ],
       "status": "live",
-      "website": "https://https://wirexapp.com/",
+      "website": "https://wirexapp.com/",
       "twitter": "https://twitter.com/wirexapp",
       "summary": "Wirex is a worldwide digital payment platform and regulated institution, that has forged new rules in the digital payments space. In 2015, the firm developed the world’s first contactless payment card that gives users the ability to seamlessly spend crypto and traditional currencies in real life. Wirex’s mission is to bridge the gap between conventional and cryptocurrencies with an overall goal to usher in a cashless society and the mainstream adoption of the digital economy.",
       "token": "WXT",
@@ -4849,7 +5984,10 @@
       "date": "2022-05-25",
       "highlight": "Safest Mobile Wallet With No Key Management (MPC Signature)",
       "logo": "/img/wirex_wallet.svg",
-      "tags": ["wallet", "multi-chain"],
+      "tags": [
+        "wallet",
+        "multi-chain"
+      ],
       "status": "live",
       "website": "https://wirexapp.com/wirex-wallet",
       "twitter": "https://twitter.com/wirexapp",
@@ -4861,7 +5999,12 @@
       "name": "Wrapped",
       "date": "2021-10-01",
       "slug": "wrapped",
-      "tags": ["bridge", "enterprise", "institutional", "multi-chain"],
+      "tags": [
+        "bridge",
+        "enterprise",
+        "institutional",
+        "multi-chain"
+      ],
       "status": "live",
       "highlight": "A cross-chain institutional bridge, designed for high-performance and speed",
       "logo": "/img/wrapped.svg",
@@ -4875,7 +6018,10 @@
     {
       "name": "WrapTag",
       "slug": "wraptagsubnet",
-      "tags": ["subnet", "NFT"],
+      "tags": [
+        "subnet",
+        "NFT"
+      ],
       "status": "live",
       "highlight": "An Avalanche Subnet: WrapTag brings trust, value, and transparency into authentic collections with irreversible ownership history exists on an NFT + Physical NFC Tag+ Decentralized Web App",
       "logo": "/img/wraptagsubnet.png",
@@ -4893,7 +6039,10 @@
     {
       "name": "Wyndblast",
       "slug": "wyndblast",
-      "tags": ["gaming", "idle"],
+      "tags": [
+        "gaming",
+        "idle"
+      ],
       "status": "In development",
       "highlight": "Lore driven one-of-a-kind multiplayer strategy auto-battler P2E game set in an adorabley vibrant fantasy universe  ",
       "logo": "/img/wyndblast.png",
@@ -4911,7 +6060,11 @@
     {
       "name": "Wyre",
       "slug": "wyre",
-      "tags": ["stablecoin", "defi", "infrastructure"],
+      "tags": [
+        "stablecoin",
+        "defi",
+        "infrastructure"
+      ],
       "status": "",
       "highlight": "A payments infrastructure provider in crypto.",
       "logo": "/img/wyre.svg",
@@ -4932,7 +6085,11 @@
       "date": "2022-07-11",
       "highlight": "One wallet for all your crypto. Store, send and receive all Avalanche assets, including NFTs with XDEFI Wallet.",
       "logo": "/img/xdefi.png",
-      "tags": ["wallet", "nft", "swap"],
+      "tags": [
+        "wallet",
+        "nft",
+        "swap"
+      ],
       "status": "live",
       "website": "https://www.xdefi.io/",
       "twitter": "https://twitter.com/xdefi_wallet",
@@ -4976,7 +6133,14 @@
       "date": "2021-08-24",
       "highlight": "XY Finance is a cross-chain interoperability protocol aggregating DEXs & Bridges. With the ultimate routing across multi-chains, borderless and seamless swapping is just one click away.",
       "logo": "/img/xy-finance.png",
-      "tags": ["bridge", "multi-chain", "defi", "dex", "swap", "trading"],
+      "tags": [
+        "bridge",
+        "multi-chain",
+        "defi",
+        "dex",
+        "swap",
+        "trading"
+      ],
       "status": "live",
       "website": "https://xy.finance/",
       "twitter": "https://twitter.com/xyfinance",
@@ -4991,7 +6155,10 @@
     {
       "name": "Yay Games",
       "slug": "yay-games",
-      "tags": ["defi", "play-to-earn"],
+      "tags": [
+        "defi",
+        "play-to-earn"
+      ],
       "status": "",
       "highlight": "Play to earn crypto marketplace for in-game mining, farming and trading.",
       "logo": "/img/yay-games.png",
@@ -5007,9 +6174,33 @@
       "token": ""
     },
     {
+      "name": "Yeti Finance",
+      "slug": "yeti-finance",
+      "tags": [
+        "lending",
+        "defi"
+      ],
+      "status": "Live",
+      "highlight": "Yield-bearing asset lending protocol that allows users to generate more yield. ",
+      "logo": "/img/yeti-finance.svg",
+      "website": "https://yetifinance.co/",
+      "twitter": "https://twitter.com/YetiFinance",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "YetiSwap",
       "slug": "yetiswap",
-      "tags": ["nft", "defi"],
+      "tags": [
+        "nft",
+        "defi"
+      ],
       "status": "",
       "highlight": "DEX and NFT marketplace with royalties.",
       "logo": "/img/yetiswap.png",
@@ -5027,7 +6218,9 @@
     {
       "name": "Yield Yak",
       "slug": "yield-yak",
-      "tags": ["defi"],
+      "tags": [
+        "defi"
+      ],
       "status": "",
       "highlight": "An easy-to-use tool to earn more yield from DeFi farming on the Avalanche network.",
       "logo": "/img/yield-yak.png",
@@ -5045,7 +6238,10 @@
     {
       "name": "Yield",
       "slug": "yield",
-      "tags": ["portfolio", "defi"],
+      "tags": [
+        "portfolio",
+        "defi"
+      ],
       "status": "",
       "highlight": "A licensed FinTech company that enables anyone to invest in decentralized finance.",
       "logo": "/img/yield.svg",
@@ -5063,7 +6259,9 @@
     {
       "name": "Zapper",
       "slug": "zapper",
-      "tags": ["portfolio"],
+      "tags": [
+        "portfolio"
+      ],
       "status": "",
       "highlight": "Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.",
       "logo": "/img/zapper.jpeg",
@@ -5084,7 +6282,12 @@
       "date": "2022-07-12",
       "highlight": "A smart and social wallet for Web3.",
       "logo": "/img/zerion.png",
-      "tags": ["wallet", "multi-chain", "dashboard", "dapp"],
+      "tags": [
+        "wallet",
+        "multi-chain",
+        "dashboard",
+        "dapp"
+      ],
       "status": "live",
       "website": "https://app.zerion.io/",
       "twitter": "https://twitter.com/zerion_io",
@@ -5096,7 +6299,13 @@
     {
       "name": "Zero Code NFT",
       "slug": "zerocodenft",
-      "tags": ["nft", "launchpads", "multi-chain", "dapp", "dashboard"],
+      "tags": [
+        "nft",
+        "launchpads",
+        "multi-chain",
+        "dapp",
+        "dashboard"
+      ],
       "status": "live",
       "highlight": "Drop Your NFT Collection With ZERO Coding Skills. Seamless solution to create a smart contract & minting page without giving up any royalties",
       "logo": "/img/zerocodenft.svg",
@@ -5117,7 +6326,11 @@
       "date": "05-2019",
       "highlight": "Smart Contracts auditing, web penetration, open source code auditing",
       "logo": "/img/zokyo.png",
-      "tags": ["security", "defi", "enterprise"],
+      "tags": [
+        "security",
+        "defi",
+        "enterprise"
+      ],
       "status": "live",
       "website": "http://zokyo.io/",
       "twitter": "https://twitter.com/ZOKYO_io?t=qzlduKlyYIVA9Jytm93ftA&s=09",
