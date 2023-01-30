@@ -1,0 +1,23 @@
+{
+  "name": "Avalytics",
+  "slug": "Avalytics",
+  "tags": [
+    "nft",
+    "tools",
+    "art",
+    "dashboard"
+  ],
+  "status": "live",
+  "highlight": "Providing free Avalanche NFT analytics.",
+  "logo": "/img/avalytics.png",
+  "website": "https://www.avalytics.xyz/",
+  "twitter": "https://twitter.com/avalyticsXYZ",
+  "telegram": "",
+  "github": "",
+  "discord": "",
+  "summary": "Providing free Avalanche NFT analytics.",
+  "docs": "",
+  "cmc": "",
+  "date": "2022-06-06",
+  "token": ""
+}
