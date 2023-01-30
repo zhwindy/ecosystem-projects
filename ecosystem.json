@@ -483,6 +483,29 @@
       "token": ""
     },
     {
+      "name": "Avalytics",
+      "slug": "Avalytics",
+      "tags": [
+        "nft",
+        "tools",
+        "art",
+        "dashboard"
+      ],
+      "status": "live",
+      "highlight": "Providing free Avalanche NFT analytics.",
+      "logo": "/img/avalytics.png",
+      "website": "https://www.avalytics.xyz/",
+      "twitter": "https://twitter.com/avalyticsXYZ",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "Providing free Avalanche NFT analytics.",
+      "docs": "",
+      "cmc": "",
+      "date": "2022-06-06",
+      "token": ""
+    },
+    {
       "name": "Avascan",
       "slug": "avascan",
       "tags": [
@@ -4634,6 +4657,28 @@
       "cmc": "",
       "date": "",
       "token": "$RACEX"
+    },
+    {
+      "name": "Raffllrr",
+      "slug": "Raffllrr",
+      "tags": [
+        "nft",
+        "tools",
+        "dapp"
+      ],
+      "status": "live",
+      "highlight": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "logo": "/img/raffllrr.png",
+      "website": "https://www.raffllrr.xyz/",
+      "twitter": "https://twitter.com/raffllrr",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/raffllrr",
+      "summary": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "docs": "https://docs.raffllrr.xyz/",
+      "cmc": "",
+      "date": "2023-01-06",
+      "token": ""
     },
     {
       "name": "Rango",
