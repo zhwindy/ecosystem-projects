@@ -1,0 +1,20 @@
+{
+  "name": "Keystone",
+  "slug": "keystone",
+  "tags": [
+    "wallet"
+  ],
+  "status": "",
+  "highlight": "A top-notch hardware wallet for optimal security, user-friendly interface and extensive compatibility.",
+  "logo": "/img/keystone.png",
+  "website": "https://keyst.one/",
+  "twitter": "https://twitter.com/KeystoneWallet",
+  "telegram": "https://t.me/KeystoneWallet",
+  "github": "https://github.com/KeystoneHQ",
+  "discord": "https://discord.gg/6vEfPEJKJD",
+  "summary": "",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
