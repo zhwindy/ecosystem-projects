@@ -1,0 +1,15 @@
+{
+    "name": "NFTScan",
+    "slug": "Avalanche NFTScan",
+    "date": "2022-10-11",
+    "highlight": "Avalanche NFTScan is a professional NFT explorer.",
+    "logo": "/img/nftscan.png",
+    "tags": ["infrastructure","nft","explorer"],
+    "status": "live",
+    "website": "https://avax.nftscan.com/",
+    "twitter": "https://twitter.com/nftscan_com",
+    "summary": "NFTScan is the world's largest NFT data infrastructure. NFTScan supports the full amount of NFT data of 12 blockchains including Ethereum, Solana, BNBChain, Moonbeam, Polygon, Arbitrum, Optimism, Fantom, Avalanche, Gnosis, Cronos and PlatON. NFTScan currently serves over 200 blockchain projects, including CMC, imToken, Safepal, BitKeep, CyberConnect, Bybit, Mask Network, OneKey, DefiYield, Kucoin, TokenPocket, Numbers, Cobo, Enjin, RSS3, and more.",
+    "discord": "https://discord.com/invite/8c87fS2HHF",
+    "docs":"https://docs.nftscan.com/",
+    "github":"https://github.com/nftscan-official"
+}
